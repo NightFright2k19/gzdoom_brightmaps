@@ -1,0 +1,228 @@
+
+brightmap texture sw2gston
+{
+	map "brightmaps/textures/doom2/tnt/sw2gston.png"
+	iwad
+}
+
+brightmap texture liteyel1
+{
+	map "brightmaps/textures/doom2/tnt/litegrn1.png"
+	iwad
+}
+
+brightmap texture egreeni
+{
+	map "brightmaps/textures/doom/66.png"
+	iwad
+}
+
+brightmap texture eredi
+{
+	map "brightmaps/textures/doom/66.png"
+	iwad
+}
+
+brightmap texture litegrn1
+{
+	map "brightmaps/textures/doom2/tnt/litegrn1.png"
+	iwad
+}
+
+brightmap texture litered1
+{
+	map "brightmaps/textures/doom2/tnt/litegrn1.png"
+	iwad
+}
+
+brightmap texture litered2
+{
+	map "brightmaps/textures/doom2/tnt/litered2.png"
+	iwad
+}
+
+brightmap texture m_tec
+{
+	map "brightmaps/textures/doom2/tnt/m_tec.png"
+	iwad
+}
+
+brightmap texture m_rdoor
+{
+	map "brightmaps/textures/doom2/tnt/m_rdoor.png"
+	iwad
+}
+
+brightmap texture m_ydoor
+{
+	map "brightmaps/textures/doom2/tnt/m_rdoor.png"
+	iwad
+}
+
+brightmap texture cubicle
+{
+	map "brightmaps/textures/doom2/tnt/cubicle.png"
+	iwad
+}
+
+brightmap texture pnk4exit
+{
+	map "brightmaps/textures/doom2/tnt/pnk4exit.png"
+	iwad
+}
+
+brightmap texture btntslvr
+{
+	map "brightmaps/textures/doom2/tnt/btntslvr.png"
+	iwad
+}
+
+brightmap texture liteyel2
+{
+	map "brightmaps/textures/doom2/tnt/liteyel2.png"
+	iwad
+}
+
+brightmap texture btntmetl
+{
+	map "brightmaps/textures/doom2/tnt/btntmetl.png"
+	iwad
+}
+
+brightmap texture yelmetal
+{
+	map "brightmaps/textures/doom2/tnt/yelmetal.png"
+	iwad
+}
+
+brightmap texture liteyel3
+{
+	map "brightmaps/textures/doom2/tnt/liteyel3.png"
+	iwad
+}
+
+brightmap texture doc1
+{
+	map "brightmaps/textures/doom2/tnt/doc1.png"
+	iwad
+}
+
+brightmap texture blodgr1
+{
+	map "brightmaps/textures/doom2/tnt/ani11.png"
+	iwad
+}
+
+brightmap texture sw1skull
+{
+	map "brightmaps/textures/doom2/tnt/ani12.png"
+	iwad
+}
+
+brightmap texture blod3
+{
+	map "brightmaps/textures/doom2/tnt/ani13.png"
+	iwad
+}
+
+brightmap texture blodgr4
+{
+	map "brightmaps/textures/doom2/tnt/ani14.png"
+	iwad
+}
+
+brightmap texture wfall1
+{
+	map "brightmaps/textures/doom2/tnt/ani21.png"
+	iwad
+}
+
+brightmap texture sw2skull
+{
+	map "brightmaps/textures/doom2/tnt/ani22.png"
+	iwad
+}
+
+brightmap texture fall3
+{
+	map "brightmaps/textures/doom2/tnt/ani23.png"
+	iwad
+}
+
+brightmap texture wfall4
+{
+	map "brightmaps/textures/doom2/tnt/ani24.png"
+	iwad
+}
+
+brightmap texture sladrip1
+{
+	map "brightmaps/textures/doom2/tnt/ani301.png"
+	iwad
+}
+
+brightmap texture slad2
+{
+	map "brightmaps/textures/doom2/tnt/ani302.png"
+	iwad
+}
+
+brightmap texture slad3
+{
+	map "brightmaps/textures/doom2/tnt/ani303.png"
+	iwad
+}
+
+brightmap texture slad4
+{
+	map "brightmaps/textures/doom2/tnt/ani304.png"
+	iwad
+}
+
+brightmap texture slad5
+{
+	map "brightmaps/textures/doom2/tnt/ani305.png"
+	iwad
+}
+
+brightmap texture slad6
+{
+	map "brightmaps/textures/doom2/tnt/ani306.png"
+	iwad
+}
+
+brightmap texture slad7
+{
+	map "brightmaps/textures/doom2/tnt/ani307.png"
+	iwad
+}
+
+brightmap texture slad8
+{
+	map "brightmaps/textures/doom2/tnt/ani308.png"
+	iwad
+}
+
+brightmap texture slad9
+{
+	map "brightmaps/textures/doom2/tnt/ani309.png"
+	iwad
+}
+
+brightmap texture slad10
+{
+	map "brightmaps/textures/doom2/tnt/ani310.png"
+	iwad
+}
+
+brightmap texture slad11
+{
+	map "brightmaps/textures/doom2/tnt/ani311.png"
+	iwad
+}
+
+brightmap texture sladrip3
+{
+	map "brightmaps/textures/doom2/tnt/ani312.png"
+	iwad
+}

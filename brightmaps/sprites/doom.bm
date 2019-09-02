@@ -1,0 +1,3980 @@
+
+brightmap sprite bar1a0
+{
+	map "brightmaps/sprites/doom/bar1a0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bar1b0
+{
+	map "brightmaps/sprites/doom/bar1b0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bexpa0
+{
+	map "brightmaps/sprites/doom/bexpa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bexpb0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bexpc0
+{
+	map "brightmaps/sprites/doom/bexpc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bexpd0
+{
+	map "brightmaps/sprites/doom/bexpd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bexpe0
+{
+	map "brightmaps/sprites/doom/bexpe0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bfgfa0
+{
+	map "brightmaps/sprites/doom/bfgfa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bfgfb0
+{
+	map "brightmaps/sprites/doom/bfgfb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bfgga0
+{
+	map "brightmaps/sprites/doom/bfgga0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bfggb0
+{
+	map "brightmaps/sprites/doom/bfggb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bfggc0
+{
+	map "brightmaps/sprites/doom/bfggc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bfuga0
+{
+	map "brightmaps/sprites/doom/bfuga0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bon1a0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite bon1b0
+{
+	map "brightmaps/sprites/doom/bon1b0.png"
+	iwad
+	disablefullbright
+}
+
+brightmap sprite bon1c0
+{
+	map "brightmaps/sprites/doom/bon1c0.png"
+	iwad
+	disablefullbright
+}
+
+brightmap sprite bon1d0
+{
+	map "brightmaps/sprites/doom/bon1d0.png"
+	iwad
+	disablefullbright
+}
+
+brightmap sprite bon2a0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bon2b0
+{
+	map "brightmaps/sprites/doom/bon2b0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bon2c0
+{
+	map "brightmaps/sprites/doom/bon2c0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bon2d0
+{
+	map "brightmaps/sprites/doom/bon2d0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossa1
+{
+	map "brightmaps/sprites/doom/bossa1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossa2a8
+{
+	map "brightmaps/sprites/doom/bossa2a8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossa3a7
+{
+	map "brightmaps/sprites/doom/bossa3a7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossa4a6
+{
+	map "brightmaps/sprites/doom/bossa4a6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossa5
+{
+	map "brightmaps/sprites/doom/bossa5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossb1
+{
+	map "brightmaps/sprites/doom/bossb1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossb2b8
+{
+	map "brightmaps/sprites/doom/bossb2b8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossb3b7
+{
+	map "brightmaps/sprites/doom/bossb3b7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossb4b6
+{
+	map "brightmaps/sprites/doom/bossb4b6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossb5
+{
+	map "brightmaps/sprites/doom/bossb5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossc1
+{
+	map "brightmaps/sprites/doom/bossc1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossc2c8
+{
+	map "brightmaps/sprites/doom/bossc2c8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossc3c7
+{
+	map "brightmaps/sprites/doom/bossc3c7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossc4c6
+{
+	map "brightmaps/sprites/doom/bossc4c6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossc5
+{
+	map "brightmaps/sprites/doom/bossc5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossd1
+{
+	map "brightmaps/sprites/doom/bossd1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossd2d8
+{
+	map "brightmaps/sprites/doom/bossd2d8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossd3d7
+{
+	map "brightmaps/sprites/doom/bossd3d7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossd4d6
+{
+	map "brightmaps/sprites/doom/bossd4d6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossd5
+{
+	map "brightmaps/sprites/doom/bossd5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosse1
+{
+	map "brightmaps/sprites/doom/bosse1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosse2
+{
+	map "brightmaps/sprites/doom/bosse2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosse3
+{
+	map "brightmaps/sprites/doom/bosse3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosse4
+{
+	map "brightmaps/sprites/doom/bosse4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosse5
+{
+	map "brightmaps/sprites/doom/bosse5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosse6
+{
+	map "brightmaps/sprites/doom/bosse6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosse7
+{
+	map "brightmaps/sprites/doom/bosse7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosse8
+{
+	map "brightmaps/sprites/doom/bosse8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossf1
+{
+	map "brightmaps/sprites/doom/bossf1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossf2
+{
+	map "brightmaps/sprites/doom/bossf2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossf3
+{
+	map "brightmaps/sprites/doom/bossf3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossf4
+{
+	map "brightmaps/sprites/doom/bossf4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossf5
+{
+	map "brightmaps/sprites/doom/bossf5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossf6
+{
+	map "brightmaps/sprites/doom/bossf6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossf7
+{
+	map "brightmaps/sprites/doom/bossf7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossf8
+{
+	map "brightmaps/sprites/doom/bossf8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossg1
+{
+	map "brightmaps/sprites/doom/bossg1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossg2
+{
+	map "brightmaps/sprites/doom/bossg2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossg3
+{
+	map "brightmaps/sprites/doom/bossg3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossg4
+{
+	map "brightmaps/sprites/doom/bossg4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossg5
+{
+	map "brightmaps/sprites/doom/bossg5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossg6
+{
+	map "brightmaps/sprites/doom/bossg6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossg7
+{
+	map "brightmaps/sprites/doom/bossg7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossg8
+{
+	map "brightmaps/sprites/doom/bossg8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossh1
+{
+	map "brightmaps/sprites/doom/bossh1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossh2
+{
+	map "brightmaps/sprites/doom/bossh2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossh3
+{
+	map "brightmaps/sprites/doom/bossh3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossh4
+{
+	map "brightmaps/sprites/doom/bossh4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossh5
+{
+	map "brightmaps/sprites/doom/bossh5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossh6
+{
+	map "brightmaps/sprites/doom/bossh6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossh7
+{
+	map "brightmaps/sprites/doom/bossh7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossh8
+{
+	map "brightmaps/sprites/doom/bossh8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossi0
+{
+	map "brightmaps/sprites/doom/bossi0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossj0
+{
+	map "brightmaps/sprites/doom/bossj0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossk0
+{
+	map "brightmaps/sprites/doom/bossk0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossl0
+{
+	map "brightmaps/sprites/doom/bossl0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossm0
+{
+	map "brightmaps/sprites/doom/bossm0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bossn0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite bosso0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite canda0
+{
+	map "brightmaps/sprites/doom/canda0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cbraa0
+{
+	map "brightmaps/sprites/doom/cbraa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cella0
+{
+	map "brightmaps/sprites/doom/cella0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite celpa0
+{
+	map "brightmaps/sprites/doom/celpa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite ceyea0
+{
+	map "brightmaps/sprites/doom/ceyea0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite ceyeb0
+{
+	map "brightmaps/sprites/doom/ceyeb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite ceyec0
+{
+	map "brightmaps/sprites/doom/ceyec0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite chgfa0
+{
+	map "brightmaps/sprites/doom/chgfa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite chgfb0
+{
+	map "brightmaps/sprites/doom/chgfb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite colua0
+{
+	map "brightmaps/sprites/doom/colua0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybra1
+{
+	map "brightmaps/sprites/doom/cybra1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybra2
+{
+	map "brightmaps/sprites/doom/cybra2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybra3
+{
+	map "brightmaps/sprites/doom/cybra3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybra4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybra5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybra6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybra7
+{
+	map "brightmaps/sprites/doom/cybra7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybra8
+{
+	map "brightmaps/sprites/doom/cybra8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrb1
+{
+	map "brightmaps/sprites/doom/cybrb1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrb2
+{
+	map "brightmaps/sprites/doom/cybrb2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrb3
+{
+	map "brightmaps/sprites/doom/cybrb3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrb4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrb5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrb6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrb7
+{
+	map "brightmaps/sprites/doom/cybrb7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrb8
+{
+	map "brightmaps/sprites/doom/cybrb8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrc1
+{
+	map "brightmaps/sprites/doom/cybrc1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrc2
+{
+	map "brightmaps/sprites/doom/cybrc2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrc3
+{
+	map "brightmaps/sprites/doom/cybrc3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrc4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrc5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrc6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrc7
+{
+	map "brightmaps/sprites/doom/cybrc7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrc8
+{
+	map "brightmaps/sprites/doom/cybrc8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrd1
+{
+	map "brightmaps/sprites/doom/cybrd1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrd2
+{
+	map "brightmaps/sprites/doom/cybrd2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrd3
+{
+	map "brightmaps/sprites/doom/cybrd3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrd4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrd5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrd6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrd7
+{
+	map "brightmaps/sprites/doom/cybrd7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrd8
+{
+	map "brightmaps/sprites/doom/cybrd8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybre1
+{
+	map "brightmaps/sprites/doom/cybre1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybre2
+{
+	map "brightmaps/sprites/doom/cybre2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybre3
+{
+	map "brightmaps/sprites/doom/cybre3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybre4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybre5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybre6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybre7
+{
+	map "brightmaps/sprites/doom/cybre7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybre8
+{
+	map "brightmaps/sprites/doom/cybre8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrf1
+{
+	map "brightmaps/sprites/doom/cybrf1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrf2
+{
+	map "brightmaps/sprites/doom/cybrf2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrf3
+{
+	map "brightmaps/sprites/doom/cybrf3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrf4
+{
+	map "brightmaps/sprites/doom/cybrf4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrf5
+{
+	map "brightmaps/sprites/doom/cybrf5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrf6
+{
+	map "brightmaps/sprites/doom/cybrf6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrf7
+{
+	map "brightmaps/sprites/doom/cybrf7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrf8
+{
+	map "brightmaps/sprites/doom/cybrf8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrg1
+{
+	map "brightmaps/sprites/doom/cybrg1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrg2
+{
+	map "brightmaps/sprites/doom/cybrg2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrg3
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrg4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrg5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrg6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrg7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrg8
+{
+	map "brightmaps/sprites/doom/cybrg8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrh0
+{
+	map "brightmaps/sprites/doom/cybrh0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybri0
+{
+	map "brightmaps/sprites/doom/cybri0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrj0
+{
+	map "brightmaps/sprites/doom/cybrj0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrk0
+{
+	map "brightmaps/sprites/doom/cybrk0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrl0
+{
+	map "brightmaps/sprites/doom/cybrl0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrm0
+{
+	map "brightmaps/sprites/doom/cybrm0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrn0
+{
+	map "brightmaps/sprites/doom/cybrn0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybro0
+{
+	map "brightmaps/sprites/doom/cybro0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite cybrp0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite fcana0
+{
+	map "brightmaps/sprites/doom/fcana0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite fcanb0
+{
+	map "brightmaps/sprites/doom/fcanb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite fcanc0
+{
+	map "brightmaps/sprites/doom/fcanc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite fskua0
+{
+	map "brightmaps/sprites/doom/fskua0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite fskub0
+{
+	map "brightmaps/sprites/doom/fskub0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite fskuc0
+{
+	map "brightmaps/sprites/doom/fskuc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heada1
+{
+	map "brightmaps/sprites/doom/heada1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heada2a8
+{
+	map "brightmaps/sprites/doom/heada2a8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heada3a7
+{
+	map "brightmaps/sprites/doom/heada3a7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heada4a6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heada5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headb1
+{
+	map "brightmaps/sprites/doom/headb1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headb2b8
+{
+	map "brightmaps/sprites/doom/headb2b8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headb3b7
+{
+	map "brightmaps/sprites/doom/headb3b7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headb4b6
+{
+	map "brightmaps/sprites/doom/headb4b6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headb5
+{
+	map "brightmaps/sprites/doom/headb5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headc1
+{
+	map "brightmaps/sprites/doom/headc1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headc2c8
+{
+	map "brightmaps/sprites/doom/headc2c8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headc3c7
+{
+	map "brightmaps/sprites/doom/headc3c7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headc4c6
+{
+	map "brightmaps/sprites/doom/headc4c6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headc5
+{
+	map "brightmaps/sprites/doom/headc5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headd1
+{
+	map "brightmaps/sprites/doom/headd1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headd2d8
+{
+	map "brightmaps/sprites/doom/headd2d8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headd3d7
+{
+	map "brightmaps/sprites/doom/headd3d7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headd4d6
+{
+	map "brightmaps/sprites/doom/headd4d6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headd5
+{
+	map "brightmaps/sprites/doom/headd5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heade1
+{
+	map "brightmaps/sprites/doom/heade1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heade2e8
+{
+	map "brightmaps/sprites/doom/heade2e8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heade3e7
+{
+	map "brightmaps/sprites/doom/heade3e7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heade4e6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite heade5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headf1
+{
+	map "brightmaps/sprites/doom/headf1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headf2f8
+{
+	map "brightmaps/sprites/doom/headf2f8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headf3f7
+{
+	map "brightmaps/sprites/doom/headf3f7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headf4f6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headf5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headg0
+{
+	map "brightmaps/sprites/doom/headg0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headh0
+{
+	map "brightmaps/sprites/doom/headh0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headi0
+{
+	map "brightmaps/sprites/doom/headi0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headj0
+{
+	map "brightmaps/sprites/doom/headj0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite headk0
+{
+	map "brightmaps/sprites/doom/headk0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misfa0
+{
+	map "brightmaps/sprites/doom/misfa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misfb0
+{
+	map "brightmaps/sprites/doom/misfb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misfc0
+{
+	map "brightmaps/sprites/doom/misfc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misfd0
+{
+	map "brightmaps/sprites/doom/misfd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misla1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misla5
+{
+	map "brightmaps/sprites/doom/misla5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misla6a4
+{
+	map "brightmaps/sprites/doom/misla6a4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misla7a3
+{
+	map "brightmaps/sprites/doom/misla7a3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite misla8a2
+{
+	map "brightmaps/sprites/doom/misla8a2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pinsa0
+{
+	map "brightmaps/sprites/doom/pinsa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pinsb0
+{
+	map "brightmaps/sprites/doom/pinsb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pinsc0
+{
+	map "brightmaps/sprites/doom/pinsc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pinsd0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pinva0
+{
+	map "brightmaps/sprites/doom/pinva0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pinvb0
+{
+	map "brightmaps/sprites/doom/pinvb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pinvc0
+{
+	map "brightmaps/sprites/doom/pinvc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pinvd0
+{
+	map "brightmaps/sprites/doom/pinvd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pisfa0
+{
+	map "brightmaps/sprites/doom/pisfa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite plasa0
+{
+	map "brightmaps/sprites/doom/plasa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playa1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playa2a8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playa3a7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playa4a6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playa5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playb1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playb2b8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playb3b7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playb4b6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playb5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playc1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playc2c8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playc3c7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playc4c6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playc5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playd1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playd2d8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playd3d7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playd4d6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playd5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playe1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playe2e8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playe3e7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playe4e6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playe5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playf1
+{
+	map "brightmaps/sprites/doom/playf1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playf2f8
+{
+	map "brightmaps/sprites/doom/playf2f8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playf3f7
+{
+	map "brightmaps/sprites/doom/playf3f7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playf4f6
+{
+	map "brightmaps/sprites/doom/playf4f6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playf5
+{
+	map "brightmaps/sprites/doom/playf5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playg1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playg2g8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playg3g7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playg4g6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playg5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playh0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playi0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playj0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playk0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playl0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playm0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playn0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playo0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playp0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playq0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playr0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite plays0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playt0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playu0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playv0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite playw0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite plsfa0
+{
+	map "brightmaps/sprites/doom/plsfa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite plsfb0
+{
+	map "brightmaps/sprites/doom/plsfb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pmapa0
+{
+	map "brightmaps/sprites/doom/pmapa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pmapb0
+{
+	map "brightmaps/sprites/doom/pmapb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pmapc0
+{
+	map "brightmaps/sprites/doom/pmapc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pmapd0
+{
+	map "brightmaps/sprites/doom/pmapd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pol3a0
+{
+	map "brightmaps/sprites/doom/pol3a0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pol3b0
+{
+	map "brightmaps/sprites/doom/pol3b0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possa1
+{
+	map "brightmaps/sprites/doom/possa1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possa2a8
+{
+	map "brightmaps/sprites/doom/possa2a8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possa3a7
+{
+	map "brightmaps/sprites/doom/possa3a7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possa4a6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possa5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possb1
+{
+	map "brightmaps/sprites/doom/possb1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possb2b8
+{
+	map "brightmaps/sprites/doom/possb2b8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possb3b7
+{
+	map "brightmaps/sprites/doom/possb3b7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possb4b6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possb5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possc1
+{
+	map "brightmaps/sprites/doom/possc1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possc2c8
+{
+	map "brightmaps/sprites/doom/possc2c8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possc3c7
+{
+	map "brightmaps/sprites/doom/possc3c7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possc4c6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possc5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possd1
+{
+	map "brightmaps/sprites/doom/possd1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possd2d8
+{
+	map "brightmaps/sprites/doom/possd2d8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possd3d7
+{
+	map "brightmaps/sprites/doom/possd3d7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possd4d6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possd5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite posse1
+{
+	map "brightmaps/sprites/doom/posse1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite posse2e8
+{
+	map "brightmaps/sprites/doom/posse2e8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite posse3e7
+{
+	map "brightmaps/sprites/doom/posse3e7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite posse4e6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite posse5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possf1
+{
+	map "brightmaps/sprites/doom/possf1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possf2f8
+{
+	map "brightmaps/sprites/doom/possf2f8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possf3f7
+{
+	map "brightmaps/sprites/doom/possf3f7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possf4f6
+{
+	map "brightmaps/sprites/doom/possf4f6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possf5
+{
+	map "brightmaps/sprites/doom/possf5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possg1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possg2g8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possg3g7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possg4g6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possg5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possh0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possi0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possj0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possk0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possl0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possm0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possn0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite posso0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possp0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possq0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possr0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite posss0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite posst0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite possu0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite puffa0
+{
+	map "brightmaps/sprites/doom/puffa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite puffb0
+{
+	map "brightmaps/sprites/doom/puffb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pvisa0
+{
+	map "brightmaps/sprites/doom/pvisa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite pvisb0
+{
+	map "brightmaps/sprites/doom/pvisb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarga1
+{
+	map "brightmaps/sprites/doom/sarga1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarga2a8
+{
+	map "brightmaps/sprites/doom/sarga2a8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarga3a7
+{
+	map "brightmaps/sprites/doom/sarga3a7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarga4a6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarga5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargb1
+{
+	map "brightmaps/sprites/doom/sargb1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargb2b8
+{
+	map "brightmaps/sprites/doom/sargb2b8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargb3b7
+{
+	map "brightmaps/sprites/doom/sargb3b7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargb4b6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargb5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargc1
+{
+	map "brightmaps/sprites/doom/sargc1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargc2c8
+{
+	map "brightmaps/sprites/doom/sargc2c8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargc3c7
+{
+	map "brightmaps/sprites/doom/sargc3c7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargc4c6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargc5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargd1
+{
+	map "brightmaps/sprites/doom/sargd1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargd2d8
+{
+	map "brightmaps/sprites/doom/sargd2d8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargd3d7
+{
+	map "brightmaps/sprites/doom/sargd3d7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargd4d6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargd5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarge1
+{
+	map "brightmaps/sprites/doom/sarge1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarge2
+{
+	map "brightmaps/sprites/doom/sarge2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarge3
+{
+	map "brightmaps/sprites/doom/sarge3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarge4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarge5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarge6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarge7
+{
+	map "brightmaps/sprites/doom/sarge7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sarge8
+{
+	map "brightmaps/sprites/doom/sarge8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargf1
+{
+	map "brightmaps/sprites/doom/sargf1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargf2
+{
+	map "brightmaps/sprites/doom/sargf2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargf3
+{
+	map "brightmaps/sprites/doom/sargf3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargf4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargf5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargf6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargf7
+{
+	map "brightmaps/sprites/doom/sargf7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargf8
+{
+	map "brightmaps/sprites/doom/sargf8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargg1
+{
+	map "brightmaps/sprites/doom/sargg1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargg2
+{
+	map "brightmaps/sprites/doom/sargg2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargg3
+{
+	map "brightmaps/sprites/doom/sargg3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargg4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargg5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargg6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargg7
+{
+	map "brightmaps/sprites/doom/sargg7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargg8
+{
+	map "brightmaps/sprites/doom/sargg8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargh1
+{
+	map "brightmaps/sprites/doom/sargh1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargh2
+{
+	map "brightmaps/sprites/doom/sargh2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargh3
+{
+	map "brightmaps/sprites/doom/sargh3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargh4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargh5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargh6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargh7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargh8
+{
+	map "brightmaps/sprites/doom/sargh8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargi0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargj0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargk0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargl0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargm0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sargn0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite shtfa0
+{
+	map "brightmaps/sprites/doom/shtfa0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite shtfb0
+{
+	map "brightmaps/sprites/doom/shtfb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skula1
+{
+	map "brightmaps/sprites/doom/skula1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skula5
+{
+	map "brightmaps/sprites/doom/skula5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skula6a4
+{
+	map "brightmaps/sprites/doom/skula6a4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skula7a3
+{
+	map "brightmaps/sprites/doom/skula7a3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skula8a2
+{
+	map "brightmaps/sprites/doom/skula8a2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulb1
+{
+	map "brightmaps/sprites/doom/skulb1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulb5
+{
+	map "brightmaps/sprites/doom/skulb5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulb6b4
+{
+	map "brightmaps/sprites/doom/skulb6b4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulb7b3
+{
+	map "brightmaps/sprites/doom/skulb7b3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulb8b2
+{
+	map "brightmaps/sprites/doom/skulb8b2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulc1
+{
+	map "brightmaps/sprites/doom/skulc1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulc5
+{
+	map "brightmaps/sprites/doom/skulc5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulc6c4
+{
+	map "brightmaps/sprites/doom/skulc6c4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulc7c3
+{
+	map "brightmaps/sprites/doom/skulc7c3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulc8c2
+{
+	map "brightmaps/sprites/doom/skulc8c2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skuld1
+{
+	map "brightmaps/sprites/doom/skuld1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skuld5
+{
+	map "brightmaps/sprites/doom/skuld5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skuld6d4
+{
+	map "brightmaps/sprites/doom/skuld6d4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skuld7d3
+{
+	map "brightmaps/sprites/doom/skuld7d3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skuld8d2
+{
+	map "brightmaps/sprites/doom/skuld8d2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skule1
+{
+	map "brightmaps/sprites/doom/skule1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skule5
+{
+	map "brightmaps/sprites/doom/skule5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skule6e4
+{
+	map "brightmaps/sprites/doom/skule6e4.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skule7e3
+{
+	map "brightmaps/sprites/doom/skule7e3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skule8e2
+{
+	map "brightmaps/sprites/doom/skule8e2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulf0
+{
+	map "brightmaps/sprites/doom/skulf0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulg0
+{
+	map "brightmaps/sprites/doom/skulg0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulh0
+{
+	map "brightmaps/sprites/doom/skulh0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skuli0
+{
+	map "brightmaps/sprites/doom/skuli0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulj0
+{
+	map "brightmaps/sprites/doom/skulj0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite skulk0
+{
+	map "brightmaps/sprites/doom/skulk0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smbta0
+{
+	map "brightmaps/sprites/doom/smbta0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smbtb0
+{
+	map "brightmaps/sprites/doom/smbtb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smbtc0
+{
+	map "brightmaps/sprites/doom/smbtc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smbtd0
+{
+	map "brightmaps/sprites/doom/smbtd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smgta0
+{
+	map "brightmaps/sprites/doom/smgta0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smgtb0
+{
+	map "brightmaps/sprites/doom/smgtb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smgtc0
+{
+	map "brightmaps/sprites/doom/smgtc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smgtd0
+{
+	map "brightmaps/sprites/doom/smgtd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smrta0
+{
+	map "brightmaps/sprites/doom/smrta0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smrtb0
+{
+	map "brightmaps/sprites/doom/smrtb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smrtc0
+{
+	map "brightmaps/sprites/doom/smrtc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite smrtd0
+{
+	map "brightmaps/sprites/doom/smrtd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite soula0
+{
+	map "brightmaps/sprites/doom/soula0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite soulb0
+{
+	map "brightmaps/sprites/doom/soulb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite soulc0
+{
+	map "brightmaps/sprites/doom/soulc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sould0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spida1d1
+{
+	map "brightmaps/sprites/doom/spida1d1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spida2a8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spida3a7
+{
+	map "brightmaps/sprites/doom/spida3a7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spida4a6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spida5d5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidb1e1
+{
+	map "brightmaps/sprites/doom/spidb1e1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidb2b8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidb3b7
+{
+	map "brightmaps/sprites/doom/spidb3b7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidb4b6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidb5e5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidc1f1
+{
+	map "brightmaps/sprites/doom/spidc1f1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidc2c8
+{
+	map "brightmaps/sprites/doom/spidc2c8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidc3c7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidc4c6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidc5f5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidd2d8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidd3d7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidd4d6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spide2e8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spide3e7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spide4e6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidf2f8
+{
+	map "brightmaps/sprites/doom/spidf2f8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidf3f7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidf4f6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidg1
+{
+	map "brightmaps/sprites/doom/spidg1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidg2g8
+{
+	map "brightmaps/sprites/doom/spidg2g8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidg3g7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidg4g6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidg5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidh1
+{
+	map "brightmaps/sprites/doom/spidh1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidh2h8
+{
+	map "brightmaps/sprites/doom/spidh2h8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidh3h7
+{
+	map "brightmaps/sprites/doom/spidh3h7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidh4h6
+{
+	map "brightmaps/sprites/doom/spidh4h6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidh5
+{
+	map "brightmaps/sprites/doom/spidh5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidi1
+{
+	map "brightmaps/sprites/doom/spidi1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidi2
+{
+	map "brightmaps/sprites/doom/spidi2.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidi3
+{
+	map "brightmaps/sprites/doom/spidi3.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidi4
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidi5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidi6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidi7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidi8
+{
+	map "brightmaps/sprites/doom/spidi8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidj0
+{
+	map "brightmaps/sprites/doom/spidj0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidk0
+{
+	map "brightmaps/sprites/doom/spidk0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidl0
+{
+	map "brightmaps/sprites/doom/spidl0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidm0
+{
+	map "brightmaps/sprites/doom/spidm0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidn0
+{
+	map "brightmaps/sprites/doom/spidn0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spido0
+{
+	map "brightmaps/sprites/doom/spido0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidp0
+{
+	map "brightmaps/sprites/doom/spidp0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidq0
+{
+	map "brightmaps/sprites/doom/spidq0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spidr0
+{
+	map "brightmaps/sprites/doom/spidr0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spids0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposa1
+{
+	map "brightmaps/sprites/doom/sposa1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposa2a8
+{
+	map "brightmaps/sprites/doom/sposa2a8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposa3a7
+{
+	map "brightmaps/sprites/doom/sposa3a7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposa4a6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposa5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposb1
+{
+	map "brightmaps/sprites/doom/sposb1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposb2b8
+{
+	map "brightmaps/sprites/doom/sposb2b8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposb3b7
+{
+	map "brightmaps/sprites/doom/sposb3b7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposb4b6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposb5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposc1
+{
+	map "brightmaps/sprites/doom/sposc1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposc2c8
+{
+	map "brightmaps/sprites/doom/sposc2c8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposc3c7
+{
+	map "brightmaps/sprites/doom/sposc3c7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposc4c6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposc5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposd1
+{
+	map "brightmaps/sprites/doom/sposd1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposd2d8
+{
+	map "brightmaps/sprites/doom/sposd2d8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposd3d7
+{
+	map "brightmaps/sprites/doom/sposd3d7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposd4d6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposd5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spose1
+{
+	map "brightmaps/sprites/doom/spose1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spose2e8
+{
+	map "brightmaps/sprites/doom/spose2e8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spose3e7
+{
+	map "brightmaps/sprites/doom/spose3e7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spose4e6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spose5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposf1
+{
+	map "brightmaps/sprites/doom/sposf1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposf2f8
+{
+	map "brightmaps/sprites/doom/sposf2f8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposf3f7
+{
+	map "brightmaps/sprites/doom/sposf3f7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposf4f6
+{
+	map "brightmaps/sprites/doom/sposf4f6.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposf5
+{
+	map "brightmaps/sprites/doom/sposf5.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposg1
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposg2g8
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposg3g7
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposg4g6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposg5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossh0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossi0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossj0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossk0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossl0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossm0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossn0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposso0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossp0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossq0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossr0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposss0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite sposst0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite spossu0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tblua0
+{
+	map "brightmaps/sprites/doom/tblua0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tblub0
+{
+	map "brightmaps/sprites/doom/tblub0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tbluc0
+{
+	map "brightmaps/sprites/doom/tbluc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tblud0
+{
+	map "brightmaps/sprites/doom/tblud0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tgrna0
+{
+	map "brightmaps/sprites/doom/tgrna0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tgrnb0
+{
+	map "brightmaps/sprites/doom/tgrnb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tgrnc0
+{
+	map "brightmaps/sprites/doom/tgrnc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tgrnd0
+{
+	map "brightmaps/sprites/doom/tgrnd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite treda0
+{
+	map "brightmaps/sprites/doom/treda0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tredb0
+{
+	map "brightmaps/sprites/doom/tredb0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tredc0
+{
+	map "brightmaps/sprites/doom/tredc0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite tredd0
+{
+	map "brightmaps/sprites/doom/tredd0.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooa1
+{
+	map "brightmaps/sprites/doom/trooa1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooa2a8
+{
+	map "brightmaps/sprites/doom/trooa2a8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooa3a7
+{
+	map "brightmaps/sprites/doom/trooa3a7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooa4a6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooa5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troob1
+{
+	map "brightmaps/sprites/doom/troob1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troob2b8
+{
+	map "brightmaps/sprites/doom/troob2b8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troob3b7
+{
+	map "brightmaps/sprites/doom/troob3b7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troob4b6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troob5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooc1
+{
+	map "brightmaps/sprites/doom/trooc1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooc2c8
+{
+	map "brightmaps/sprites/doom/trooc2c8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooc3c7
+{
+	map "brightmaps/sprites/doom/trooc3c7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooc4c6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooc5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trood1
+{
+	map "brightmaps/sprites/doom/trood1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trood2d8
+{
+	map "brightmaps/sprites/doom/trood2d8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trood3d7
+{
+	map "brightmaps/sprites/doom/trood3d7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trood4d6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trood5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooe1
+{
+	map "brightmaps/sprites/doom/trooe1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooe2e8
+{
+	map "brightmaps/sprites/doom/trooe2e8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooe3e7
+{
+	map "brightmaps/sprites/doom/trooe3e7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooe4e6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooe5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troof1
+{
+	map "brightmaps/sprites/doom/troof1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troof2f8
+{
+	map "brightmaps/sprites/doom/troof2f8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troof3f7
+{
+	map "brightmaps/sprites/doom/troof3f7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troof4f6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troof5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troog1
+{
+	map "brightmaps/sprites/doom/troog1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troog2g8
+{
+	map "brightmaps/sprites/doom/troog2g8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troog3g7
+{
+	map "brightmaps/sprites/doom/troog3g7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troog4g6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troog5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooh1
+{
+	map "brightmaps/sprites/doom/trooh1.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooh2h8
+{
+	map "brightmaps/sprites/doom/trooh2h8.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooh3h7
+{
+	map "brightmaps/sprites/doom/trooh3h7.png"
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooh4h6
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooh5
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooi0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooj0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trook0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trool0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troom0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troon0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooo0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troop0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite trooq0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troor0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troos0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troot0
+{
+	iwad 
+	disablefullbright
+}
+
+brightmap sprite troou0
+{
+	iwad 
+	disablefullbright
+}

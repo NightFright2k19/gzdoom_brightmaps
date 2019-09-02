@@ -1,0 +1,1252 @@
+brightmap sprite hmn1f1
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite hmn1f2
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite hmn1f3
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite hmn1f4
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite hmn1f5
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite hmn1f6
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite hmn1f7
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite hmn1f8
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite leadf1
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite leadf2
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite leadf3
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite leadf4
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite leadf5
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite leadf6
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite leadf7
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite leadf8
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite mldre1
+{
+	map "brightmaps/sprites/strife/mldre1.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite mldre2
+{
+	map "brightmaps/sprites/strife/mldre2.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite mldre3
+{
+	map "brightmaps/sprites/strife/mldre3.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite mldre4
+{
+	map "brightmaps/sprites/strife/mldre4.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite mldre5
+{
+	map "brightmaps/sprites/strife/mldre5.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite mldre6
+{
+	map "brightmaps/sprites/strife/mldre6.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite mldre7
+{
+	map "brightmaps/sprites/strife/mldre7.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite mldre8
+{
+	map "brightmaps/sprites/strife/mldre8.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite mldrf1
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite mldrf2
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite mldrf3
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite mldrf4
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite mldrf5
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite mldrf6
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite mldrf7
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite mldrf8
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdg1
+{
+	map "brightmaps/sprites/strife/pgrdg1.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdg2
+{
+	map "brightmaps/sprites/strife/pgrdg2.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdg3
+{
+	map "brightmaps/sprites/strife/pgrdg3.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdg4
+{
+	map "brightmaps/sprites/strife/pgrdg4.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdg5
+{
+	map "brightmaps/sprites/strife/pgrdg5.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdg6
+{
+	map "brightmaps/sprites/strife/pgrdg6.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdg7
+{
+	map "brightmaps/sprites/strife/pgrdg7.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdg8
+{
+	map "brightmaps/sprites/strife/pgrdg8.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdh1
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdh2
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdh3
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdh4
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdh5
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdh6
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdh7
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdh8
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite pgrdi0
+{
+	map "brightmaps/sprites/strife/pgrdi0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdj0
+{
+	map "brightmaps/sprites/strife/pgrdj0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdk0
+{
+	map "brightmaps/sprites/strife/pgrdk0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdl0
+{
+	map "brightmaps/sprites/strife/pgrdl0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdm0
+{
+	map "brightmaps/sprites/strife/pgrdm0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite pgrdn0
+{
+	map "brightmaps/sprites/strife/pgrdn0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob1g1
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob1g2
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob1g3
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob1g4
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob1g5
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob1g6
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob1g7
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob1g8
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob1j0
+{
+	map "brightmaps/sprites/strife/rob1j0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob1k0
+{
+	map "brightmaps/sprites/strife/rob1k0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob1l0
+{
+	map "brightmaps/sprites/strife/rob1l0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob1m0
+{
+	map "brightmaps/sprites/strife/rob1m0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob1n0
+{
+	map "brightmaps/sprites/strife/rob1n0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob1o0
+{
+	map "brightmaps/sprites/strife/rob1o0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob1p0
+{
+	map "brightmaps/sprites/strife/rob1p0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob1q0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2e1
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2e2
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2e3
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2e4
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2e5
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2e6
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2e7
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2e8
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob2f1
+{
+	map "brightmaps/sprites/strife/rob2f1.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2f2
+{
+	map "brightmaps/sprites/strife/rob2f2.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2f3
+{
+	map "brightmaps/sprites/strife/rob2f3.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2f4
+{
+	map "brightmaps/sprites/strife/rob2f4.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2f5
+{
+	map "brightmaps/sprites/strife/rob2f5.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2f6
+{
+	map "brightmaps/sprites/strife/rob2f6.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2f7
+{
+	map "brightmaps/sprites/strife/rob2f7.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2f8
+{
+	map "brightmaps/sprites/strife/rob2f8.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2g0
+{
+	map "brightmaps/sprites/strife/rob2g0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2h0
+{
+	map "brightmaps/sprites/strife/rob2h0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2i0
+{
+	map "brightmaps/sprites/strife/rob2i0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2j0
+{
+	map "brightmaps/sprites/strife/rob2j0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2k0
+{
+	map "brightmaps/sprites/strife/rob2k0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2l0
+{
+	map "brightmaps/sprites/strife/rob2l0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2m0
+{
+	map "brightmaps/sprites/strife/rob2m0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2n0
+{
+	map "brightmaps/sprites/strife/rob2n0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob2o0
+{
+	map "brightmaps/sprites/strife/rob2o0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3f1
+{
+	map "brightmaps/sprites/strife/rob3f1.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3f2
+{
+	map "brightmaps/sprites/strife/rob3f2.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3f3
+{
+	map "brightmaps/sprites/strife/rob3f3.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3f4
+{
+	map "brightmaps/sprites/strife/rob3f4.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3f5
+{
+	map "brightmaps/sprites/strife/rob3f5.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3f6
+{
+	map "brightmaps/sprites/strife/rob3f6.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3f7
+{
+	map "brightmaps/sprites/strife/rob3f7.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3f8
+{
+	map "brightmaps/sprites/strife/rob3f8.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3g1
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob3g2
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob3g3
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob3g4
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob3g5
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob3g6
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob3g7
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob3g8
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite rob3h1
+{
+	map "brightmaps/sprites/strife/rob3h1.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3h2
+{
+	map "brightmaps/sprites/strife/rob3h2.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3h3
+{
+	map "brightmaps/sprites/strife/rob3h3.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3h4
+{
+	map "brightmaps/sprites/strife/rob3h4.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3h5
+{
+	map "brightmaps/sprites/strife/rob3h5.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3h6
+{
+	map "brightmaps/sprites/strife/rob3h6.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3h7
+{
+	map "brightmaps/sprites/strife/rob3h7.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3h8
+{
+	map "brightmaps/sprites/strife/rob3h8.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3i1
+{
+	map "brightmaps/sprites/strife/rob3i1.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3i2
+{
+	map "brightmaps/sprites/strife/rob3i2.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3i3
+{
+	map "brightmaps/sprites/strife/rob3i3.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3i4
+{
+	map "brightmaps/sprites/strife/rob3i4.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3i5
+{
+	map "brightmaps/sprites/strife/rob3i5.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3i6
+{
+	map "brightmaps/sprites/strife/rob3i6.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3i7
+{
+	map "brightmaps/sprites/strife/rob3i7.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3i8
+{
+	map "brightmaps/sprites/strife/rob3i8.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3j1
+{
+	map "brightmaps/sprites/strife/rob3j1.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3j2
+{
+	map "brightmaps/sprites/strife/rob3j2.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3j3
+{
+	map "brightmaps/sprites/strife/rob3j3.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3j4
+{
+	map "brightmaps/sprites/strife/rob3j4.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3j5
+{
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3j6
+{
+	map "brightmaps/sprites/strife/rob3j6.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3j7
+{
+	map "brightmaps/sprites/strife/rob3j7.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3j8
+{
+	map "brightmaps/sprites/strife/rob3j8.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3m0
+{
+	map "brightmaps/sprites/strife/rob3m0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3n0
+{
+	map "brightmaps/sprites/strife/rob3n0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3o0
+{
+	map "brightmaps/sprites/strife/rob3o0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3p0
+{
+	map "brightmaps/sprites/strife/rob3p0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3q0
+{
+	map "brightmaps/sprites/strife/rob3q0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3r0
+{
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3s0
+{
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3t0
+{
+	map "brightmaps/sprites/strife/rob3t0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3u0
+{
+	map "brightmaps/sprites/strife/rob3u0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3v0
+{
+	map "brightmaps/sprites/strife/rob3v0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3w0
+{
+	map "brightmaps/sprites/strife/rob3w0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3x0
+{
+	map "brightmaps/sprites/strife/rob3x0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3y0
+{
+	map "brightmaps/sprites/strife/rob3y0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rob3z0
+{
+	map "brightmaps/sprites/strife/rob3z0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite "rob3[0"
+{
+	map "brightmaps/sprites/strife/rob3[0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite "rob3\0"
+{
+	map "brightmaps/sprites/strife/rob3^0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite "rob3]0"
+{
+	map "brightmaps/sprites/strife/rob3]0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rbb3a0
+{
+	map "brightmaps/sprites/strife/rbb3a0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite rbb3b0
+{
+	map "brightmaps/sprites/strife/rbb3b0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite prgrh0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgri0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrj0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrk0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrl0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrm0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgro0
+{
+	map "brightmaps/sprites/strife/prgro0.png"
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrp0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrq0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrr0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrs0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrt0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgru0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrv0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrw0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite prgrx0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite sewrc1
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite sewrc8c2
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite sewrc7c3
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite sewrc6c4
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite sewrc5
+{
+	disablefullbright
+}
+
+brightmap sprite sewre0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite sewrf0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite sewrg0
+{
+	iwad
+	disablefullbright
+}
+
+brightmap sprite sewrh0
+{
+	map "brightmaps/sprites/strife/sewrh0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlkp0
+{
+	map "brightmaps/sprites/strife/stlkp0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlkq0
+{
+	map "brightmaps/sprites/strife/stlkq0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlkr0
+{
+	map "brightmaps/sprites/strife/stlkr0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlks0
+{
+	map "brightmaps/sprites/strife/stlks0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlkt0
+{
+	map "brightmaps/sprites/strife/stlkt0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlku0
+{
+	map "brightmaps/sprites/strife/stlku0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlkv0
+{
+	map "brightmaps/sprites/strife/stlkv0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlkw0
+{
+	map "brightmaps/sprites/strife/stlkw0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlkx0
+{
+	map "brightmaps/sprites/strife/stlkx0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlky0
+{
+	map "brightmaps/sprites/strife/stlky0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite stlkz0
+{
+	map "brightmaps/sprites/strife/stlkz0.png"
+	disablefullbright
+	iwad
+}
+
+brightmap sprite "stlk[0"
+{
+	map "brightmaps/sprites/strife/stlk[0.png"
+	disablefullbright
+	iwad
+}
