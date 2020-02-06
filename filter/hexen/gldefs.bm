@@ -1,5 +1,0 @@
-// Brightmaps for sprites
-#include brightmaps/sprites/hexen.bm
-
-// Brightmaps for textures
-#include brightmaps/textures/hexen.bm

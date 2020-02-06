@@ -1,9 +1,0 @@
-// Brightmaps for vanilla sprites
-// #include brightmaps/sprites/doom.bm
-
-// Brightmaps for Revenant100's spritefixes
-#include brightmaps/sprites/doom_spritefixes.bm
-
-// Brightmaps for textures
-#include brightmaps/textures/doom.bm
-

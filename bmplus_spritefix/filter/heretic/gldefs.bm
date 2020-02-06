@@ -1,0 +1,2 @@
+// Brightmaps for Revenant100's spritefixes (don't use with vanilla sprites)
+#include brightmaps/sprites/heretic_spritefixes.bm

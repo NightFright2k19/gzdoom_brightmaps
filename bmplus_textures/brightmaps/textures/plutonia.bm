@@ -1,0 +1,29 @@
+brightmap texture sw2skull { map "brightmaps/textures/doom2/plutonia/sw2skull.png" iwad }
+
+brightmap texture fireblu1 { map "brightmaps/textures/doom2/plutonia/empty.png" iwad }
+brightmap texture fireblu2 { map "brightmaps/textures/doom2/plutonia/empty.png" iwad }
+
+brightmap texture a-yellow { map "brightmaps/textures/doom2/plutonia/a-yellow.png" iwad }
+
+brightmap texture slime8   { map "brightmaps/textures/doom2/plutonia/slime8.png" iwad }
+
+brightmap texture dbrain1  { map "brightmaps/textures/doom2/plutonia/mc1.png" iwad }
+brightmap texture dbrain4  { map "brightmaps/textures/doom2/plutonia/mc20.png" iwad }
+
+brightmap texture mc2      { map "brightmaps/textures/doom2/plutonia/mc2.png" iwad }
+brightmap texture mc3      { map "brightmaps/textures/doom2/plutonia/mc3.png" iwad }
+brightmap texture mc4      { map "brightmaps/textures/doom2/plutonia/mc4.png" iwad }
+brightmap texture mc5      { map "brightmaps/textures/doom2/plutonia/mc5.png" iwad }
+brightmap texture mc6      { map "brightmaps/textures/doom2/plutonia/mc6.png" iwad }
+brightmap texture mc7      { map "brightmaps/textures/doom2/plutonia/mc7.png" iwad }
+brightmap texture mc8      { map "brightmaps/textures/doom2/plutonia/mc8.png" iwad }
+brightmap texture mc10     { map "brightmaps/textures/doom2/plutonia/mc10.png" iwad }
+brightmap texture mc11     { map "brightmaps/textures/doom2/plutonia/mc11.png" iwad }
+brightmap texture mc12     { map "brightmaps/textures/doom2/plutonia/mc12.png" iwad }
+brightmap texture mc13     { map "brightmaps/textures/doom2/plutonia/mc13.png" iwad }
+brightmap texture mc14     { map "brightmaps/textures/doom2/plutonia/mc14.png" iwad }
+brightmap texture mc15     { map "brightmaps/textures/doom2/plutonia/mc15.png" iwad }
+brightmap texture mc16     { map "brightmaps/textures/doom2/plutonia/mc16.png" iwad }
+brightmap texture mc17     { map "brightmaps/textures/doom2/plutonia/mc17.png" iwad }
+brightmap texture mc18     { map "brightmaps/textures/doom2/plutonia/mc18.png" iwad }
+brightmap texture mc19     { map "brightmaps/textures/doom2/plutonia/mc19.png" iwad }

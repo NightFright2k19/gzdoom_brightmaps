@@ -1,0 +1,9593 @@
+
+// ========================================== AFRIT
+
+brightmap sprite fdmba1
+{
+	map "brightmaps/sprites/hexen/fdmba1.png"
+  iwad
+  disablefullbright
+}
+
+brightmap sprite fdmba2a8
+{
+	map "brightmaps/sprites/hexen/fdmba2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmba3a7
+{
+	map "brightmaps/sprites/hexen/fdmba3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmba4a6
+{
+	map "brightmaps/sprites/hexen/fdmba4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmba5
+{
+	map "brightmaps/sprites/hexen/fdmba5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmbb0
+{
+	map "brightmaps/sprites/hexen/fdmbb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmbc0
+{
+	map "brightmaps/sprites/hexen/fdmbc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmbd0
+{
+	map "brightmaps/sprites/hexen/fdmbd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmbe0
+{
+	map "brightmaps/sprites/hexen/fdmbe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmna1
+{
+	map "brightmaps/sprites/hexen/fdmna1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmna2
+{
+	map "brightmaps/sprites/hexen/fdmna2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnb1
+{
+	map "brightmaps/sprites/hexen/fdmnb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmna7
+{
+	map "brightmaps/sprites/hexen/fdmna7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmna8
+{
+	map "brightmaps/sprites/hexen/fdmna8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnb1
+{
+	map "brightmaps/sprites/hexen/fdmnb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnb2
+{
+	map "brightmaps/sprites/hexen/fdmnb2.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite fdmnb3
+{
+	map "brightmaps/sprites/hexen/fdmnb3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnb4
+{
+	map "brightmaps/sprites/hexen/fdmnb4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnb5
+{
+	map "brightmaps/sprites/hexen/fdmnb5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnb6
+{
+	map "brightmaps/sprites/hexen/fdmnb6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnb7
+{
+	map "brightmaps/sprites/hexen/fdmnb7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnb8
+{
+	map "brightmaps/sprites/hexen/fdmnb8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnc1
+{
+	map "brightmaps/sprites/hexen/fdmnc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnc2
+{
+	map "brightmaps/sprites/hexen/fdmnc2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnc3
+{
+	map "brightmaps/sprites/hexen/fdmnc3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnc4
+{
+	map "brightmaps/sprites/hexen/fdmnc4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnc5
+{
+	map "brightmaps/sprites/hexen/fdmnc5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnc6
+{
+	map "brightmaps/sprites/hexen/fdmnc6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnc7
+{
+	map "brightmaps/sprites/hexen/fdmnc7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnc8
+{
+	map "brightmaps/sprites/hexen/fdmnc8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnd1
+{
+	map "brightmaps/sprites/hexen/fdmnd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnd2
+{
+	map "brightmaps/sprites/hexen/fdmnd2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnd3
+{
+	map "brightmaps/sprites/hexen/fdmnd3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnd4
+{
+	map "brightmaps/sprites/hexen/fdmnd4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnd5
+{
+	map "brightmaps/sprites/hexen/fdmnd5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnd6
+{
+	map "brightmaps/sprites/hexen/fdmnd6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnd7
+{
+	map "brightmaps/sprites/hexen/fdmnd7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnd8
+{
+	map "brightmaps/sprites/hexen/fdmnd8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmne0
+{
+	map "brightmaps/sprites/hexen/fdmne0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnf0
+{
+	map "brightmaps/sprites/hexen/fdmnf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmng0
+{
+	map "brightmaps/sprites/hexen/fdmng0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnh0
+{
+	map "brightmaps/sprites/hexen/fdmnh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmni0
+{
+	map "brightmaps/sprites/hexen/fdmni0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnj0
+{
+	map "brightmaps/sprites/hexen/fdmnj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnl0
+{
+	map "brightmaps/sprites/hexen/fdmnl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnm0
+{
+	map "brightmaps/sprites/hexen/fdmnm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnn0
+{
+	map "brightmaps/sprites/hexen/fdmnn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmno0
+{
+	map "brightmaps/sprites/hexen/fdmno0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnp0
+{
+	map "brightmaps/sprites/hexen/fdmnp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnq0
+{
+	map "brightmaps/sprites/hexen/fdmnq0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== ARTIFACTS
+
+brightmap sprite blsta0
+{
+	map "brightmaps/sprites/hexen/blsta0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite blstb0
+{
+	map "brightmaps/sprites/hexen/blstb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite blstc0
+{
+	map "brightmaps/sprites/hexen/blstc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite blstd0
+{
+	map "brightmaps/sprites/hexen/blstd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite blste0
+{
+	map "brightmaps/sprites/hexen/blste0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite blstf0
+{
+	map "brightmaps/sprites/hexen/blstf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite blstg0
+{
+	map "brightmaps/sprites/hexen/blstg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite blsth0
+{
+	map "brightmaps/sprites/hexen/blsth0.png"
+	iwad
+  disablefullbright
+}
+	
+brightmap sprite atlpa0
+{
+	map "brightmaps/sprites/hexen/atlpa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite atlpb0
+{
+	map "brightmaps/sprites/hexen/atlpb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite atlpc0
+{
+	map "brightmaps/sprites/hexen/atlpc0.png"
+	iwad
+  disablefullbright
+}
+	
+brightmap sprite acloa0
+{
+	map "brightmaps/sprites/hexen/acloa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite aclob0
+{
+	map "brightmaps/sprites/hexen/aclob0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite acloc0
+{
+	map "brightmaps/sprites/hexen/acloc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite aclod0
+{
+	map "brightmaps/sprites/hexen/aclod0.png"
+	iwad
+  disablefullbright
+}
+	
+brightmap sprite arm2a0
+{
+	map "brightmaps/sprites/hexen/arm2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite arm4a0
+{
+	map "brightmaps/sprites/hexen/arm4a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bmana0
+{
+	map "brightmaps/sprites/hexen/bmana0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbga0
+{
+	map "brightmaps/sprites/hexen/psbga0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ptn1a0
+{
+	map "brightmaps/sprites/hexen/ptn1a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ptn1b0
+{
+	map "brightmaps/sprites/hexen/ptn1b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ptn1c0
+{
+	map "brightmaps/sprites/hexen/ptn1c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ptn2a0
+{
+	map "brightmaps/sprites/hexen/ptn2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ptn2b0
+{
+	map "brightmaps/sprites/hexen/ptn2b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ptn2c0
+{
+	map "brightmaps/sprites/hexen/ptn2c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1a0
+{
+	map "brightmaps/sprites/hexen/man1a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1b0
+{
+	map "brightmaps/sprites/hexen/man1b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1c0
+{
+	map "brightmaps/sprites/hexen/man1c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1d0
+{
+	map "brightmaps/sprites/hexen/man1d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1e0
+{
+	map "brightmaps/sprites/hexen/man1e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1f0
+{
+	map "brightmaps/sprites/hexen/man1f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1g0
+{
+	map "brightmaps/sprites/hexen/man1g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1h0
+{
+	map "brightmaps/sprites/hexen/man1h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man1i0
+{
+	map "brightmaps/sprites/hexen/man1i0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2a0
+{
+	map "brightmaps/sprites/hexen/man2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2b0
+{
+	map "brightmaps/sprites/hexen/man2b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2c0
+{
+	map "brightmaps/sprites/hexen/man2c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2d0
+{
+	map "brightmaps/sprites/hexen/man2d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2e0
+{
+	map "brightmaps/sprites/hexen/man2e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2f0
+{
+	map "brightmaps/sprites/hexen/man2f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2g0
+{
+	map "brightmaps/sprites/hexen/man2g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2h0
+{
+	map "brightmaps/sprites/hexen/man2h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2i0
+{
+	map "brightmaps/sprites/hexen/man2i0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2j0
+{
+	map "brightmaps/sprites/hexen/man2j0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2k0
+{
+	map "brightmaps/sprites/hexen/man2k0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2l0
+{
+	map "brightmaps/sprites/hexen/man2l0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2m0
+{
+	map "brightmaps/sprites/hexen/man2m0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2n0
+{
+	map "brightmaps/sprites/hexen/man2n0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2o0
+{
+	map "brightmaps/sprites/hexen/man2o0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man2p0
+{
+	map "brightmaps/sprites/hexen/man2p0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite thrwa0
+{
+	map "brightmaps/sprites/hexen/thrwa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite thrwb0
+{
+	map "brightmaps/sprites/hexen/thrwb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite thrwc0
+{
+	map "brightmaps/sprites/hexen/thrwc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite thrwd0
+{
+	map "brightmaps/sprites/hexen/thrwd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite thrwe0
+{
+	map "brightmaps/sprites/hexen/thrwe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite thrwf0
+{
+	map "brightmaps/sprites/hexen/thrwf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite thrwg0
+{
+	map "brightmaps/sprites/hexen/thrwg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite thrwh0
+{
+	map "brightmaps/sprites/hexen/thrwh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite teloa0
+{
+	map "brightmaps/sprites/hexen/teloa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite telob0
+{
+	map "brightmaps/sprites/hexen/telob0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite teloc0
+{
+	map "brightmaps/sprites/hexen/teloc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite telod0
+{
+	map "brightmaps/sprites/hexen/telod0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trcha0
+{
+	map "brightmaps/sprites/hexen/trcha0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trchb0
+{
+	map "brightmaps/sprites/hexen/trchb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trchc0
+{
+	map "brightmaps/sprites/hexen/trchc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trnga1a5
+{
+	map "brightmaps/sprites/hexen/trnga1a5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trnga2a8
+{
+	map "brightmaps/sprites/hexen/trnga2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trnga3a7
+{
+	map "brightmaps/sprites/hexen/trnga3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trnga4a6
+{
+	map "brightmaps/sprites/hexen/trnga4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngb1b5
+{
+	map "brightmaps/sprites/hexen/trngb1b5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngb2b8
+{
+	map "brightmaps/sprites/hexen/trngb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngb3b7
+{
+	map "brightmaps/sprites/hexen/trngb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngb4b6
+{
+	map "brightmaps/sprites/hexen/trngb4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngc1c5
+{
+	map "brightmaps/sprites/hexen/trngc1c5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngc2c8
+{
+	map "brightmaps/sprites/hexen/trngc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngc3c7
+{
+	map "brightmaps/sprites/hexen/trngc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngc4c6
+{
+	map "brightmaps/sprites/hexen/trngc4c6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngd1d5
+{
+	map "brightmaps/sprites/hexen/trngd1d5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngd2d8
+{
+	map "brightmaps/sprites/hexen/trngd2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngd3d7
+{
+	map "brightmaps/sprites/hexen/trngd3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trngd4d6
+{
+	map "brightmaps/sprites/hexen/trngd4d6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trnge0
+{
+	map "brightmaps/sprites/hexen/trnge0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite braca0
+{
+	map "brightmaps/sprites/hexen/braca0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bracb0
+{
+	map "brightmaps/sprites/hexen/bracb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bracc0
+{
+	map "brightmaps/sprites/hexen/bracc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bracd0
+{
+	map "brightmaps/sprites/hexen/bracd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brace0
+{
+	map "brightmaps/sprites/hexen/brace0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bracf0
+{
+	map "brightmaps/sprites/hexen/bracf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bracg0
+{
+	map "brightmaps/sprites/hexen/bracg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brach0
+{
+	map "brightmaps/sprites/hexen/brach0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbgb0
+{
+	map "brightmaps/sprites/hexen/psbgb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbgc0
+{
+	map "brightmaps/sprites/hexen/psbgc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbgd0
+{
+	map "brightmaps/sprites/hexen/psbgd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbge0
+{
+	map "brightmaps/sprites/hexen/psbge0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbgf0
+{
+	map "brightmaps/sprites/hexen/psbgf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbgg0
+{
+	map "brightmaps/sprites/hexen/psbgg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbgh0
+{
+	map "brightmaps/sprites/hexen/psbgh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite psbgi0
+{
+	map "brightmaps/sprites/hexen/psbgi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite invua0
+{
+	map "brightmaps/sprites/hexen/invua0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite invub0
+{
+	map "brightmaps/sprites/hexen/invub0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite invuc0
+{
+	map "brightmaps/sprites/hexen/invuc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite invud0
+{
+	map "brightmaps/sprites/hexen/invud0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite radea0
+{
+	map "brightmaps/sprites/hexen/radea0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite radeb0
+{
+	map "brightmaps/sprites/hexen/radeb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite radec0
+{
+	map "brightmaps/sprites/hexen/radec0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite raded0
+{
+	map "brightmaps/sprites/hexen/raded0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite radee0
+{
+	map "brightmaps/sprites/hexen/radee0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite radef0
+{
+	map "brightmaps/sprites/hexen/radef0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite radeg0
+{
+	map "brightmaps/sprites/hexen/radeg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite radeh0
+{
+	map "brightmaps/sprites/hexen/radeh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite radei0
+{
+	map "brightmaps/sprites/hexen/radei0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite speda0
+{
+	map "brightmaps/sprites/hexen/speda0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite spedb0
+{
+	map "brightmaps/sprites/hexen/spedb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite spedc0
+{
+	map "brightmaps/sprites/hexen/spedc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite spedd0
+{
+	map "brightmaps/sprites/hexen/spedd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite spede0
+{
+	map "brightmaps/sprites/hexen/spede0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite spedf0
+{
+	map "brightmaps/sprites/hexen/spedf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite spedg0
+{
+	map "brightmaps/sprites/hexen/spedg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite spedh0
+{
+	map "brightmaps/sprites/hexen/spedh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3a0
+{
+	map "brightmaps/sprites/hexen/man3a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3b0
+{
+	map "brightmaps/sprites/hexen/man3b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3c0
+{
+	map "brightmaps/sprites/hexen/man3c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3d0
+{
+	map "brightmaps/sprites/hexen/man3d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3e0
+{
+	map "brightmaps/sprites/hexen/man3e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3f0
+{
+	map "brightmaps/sprites/hexen/man3f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3g0
+{
+	map "brightmaps/sprites/hexen/man3g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3h0
+{
+	map "brightmaps/sprites/hexen/man3h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3i0
+{
+	map "brightmaps/sprites/hexen/man3i0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3j0
+{
+	map "brightmaps/sprites/hexen/man3j0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3k0
+{
+	map "brightmaps/sprites/hexen/man3k0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3l0
+{
+	map "brightmaps/sprites/hexen/man3l0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3m0
+{
+	map "brightmaps/sprites/hexen/man3m0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3n0
+{
+	map "brightmaps/sprites/hexen/man3n0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3o0
+{
+	map "brightmaps/sprites/hexen/man3o0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite man3p0
+{
+	map "brightmaps/sprites/hexen/man3p0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hrada0
+{
+	map "brightmaps/sprites/hexen/hrada0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite hradb0
+{
+	map "brightmaps/sprites/hexen/hradb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradc0
+{
+	map "brightmaps/sprites/hexen/hradc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradd0
+{
+	map "brightmaps/sprites/hexen/hradd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hrade0
+{
+	map "brightmaps/sprites/hexen/hrade0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradf0
+{
+	map "brightmaps/sprites/hexen/hradf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradg0
+{
+	map "brightmaps/sprites/hexen/hradg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradh0
+{
+	map "brightmaps/sprites/hexen/hradh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradi0
+{
+	map "brightmaps/sprites/hexen/hradi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradj0
+{
+	map "brightmaps/sprites/hexen/hradj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradk0
+{
+	map "brightmaps/sprites/hexen/hradk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradl0
+{
+	map "brightmaps/sprites/hexen/hradl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradm0
+{
+	map "brightmaps/sprites/hexen/hradm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradn0
+{
+	map "brightmaps/sprites/hexen/hradn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hrado0
+{
+	map "brightmaps/sprites/hexen/hrado0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite hradp0
+{
+	map "brightmaps/sprites/hexen/hradp0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== BROWN CHAOS SERPENT
+	
+brightmap sprite dem2a2a8
+{
+	map "brightmaps/sprites/hexen/dem2a2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2a3a7
+{
+	map "brightmaps/sprites/hexen/dem2a3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2a4a6
+{
+	map "brightmaps/sprites/hexen/dem2a4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2b1
+{
+	map "brightmaps/sprites/hexen/dem2b1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2b2b8
+{
+	map "brightmaps/sprites/hexen/dem2b2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2b3b7
+{
+	map "brightmaps/sprites/hexen/dem2b3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2a1
+{
+	map "brightmaps/sprites/hexen/dem2a1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2b4b6
+{
+	map "brightmaps/sprites/hexen/dem2b4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2c1
+{
+	map "brightmaps/sprites/hexen/dem2c1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2c2c8
+{
+	map "brightmaps/sprites/hexen/dem2c2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2c3c7
+{
+	map "brightmaps/sprites/hexen/dem2c3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2c4c6
+{
+	map "brightmaps/sprites/hexen/dem2c4c6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2d1
+{
+	map "brightmaps/sprites/hexen/dem2d1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2d2d8
+{
+	map "brightmaps/sprites/hexen/dem2d2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2d3d7
+{
+	map "brightmaps/sprites/hexen/dem2d3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2d4d6
+{
+	map "brightmaps/sprites/hexen/dem2d4d6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2e1
+{
+	map "brightmaps/sprites/hexen/dem2e1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2e2e8
+{
+	map "brightmaps/sprites/hexen/dem2e2e8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2e3e7
+{
+	map "brightmaps/sprites/hexen/dem2e3e7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2e4e6
+{
+	map "brightmaps/sprites/hexen/dem2e4e6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2f1
+{
+	map "brightmaps/sprites/hexen/dem2f1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2f2f8
+{
+	map "brightmaps/sprites/hexen/dem2f2f8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2f3f7
+{
+	map "brightmaps/sprites/hexen/dem2f3f7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2f4f6
+{
+	map "brightmaps/sprites/hexen/dem2f4f6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2g1
+{
+	map "brightmaps/sprites/hexen/dem2g1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2g2g8
+{
+	map "brightmaps/sprites/hexen/dem2g2g8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2g3g7
+{
+	map "brightmaps/sprites/hexen/dem2g3g7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2h0
+{
+	map "brightmaps/sprites/hexen/dem2h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2i0
+{
+	map "brightmaps/sprites/hexen/dem2i0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2j0
+{
+	map "brightmaps/sprites/hexen/dem2j0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2k0
+{
+	map "brightmaps/sprites/hexen/dem2k0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite dem2l0
+{
+	map "brightmaps/sprites/hexen/dem2l0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxa1
+{
+	map "brightmaps/sprites/hexen/d2fxa1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxa2a8
+{
+	map "brightmaps/sprites/hexen/d2fxa2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxa3a7
+{
+	map "brightmaps/sprites/hexen/d2fxa3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxa4a6
+{
+	map "brightmaps/sprites/hexen/d2fxa4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxa5
+{
+	map "brightmaps/sprites/hexen/d2fxa5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxb1
+{
+	map "brightmaps/sprites/hexen/d2fxb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxb5
+{
+	map "brightmaps/sprites/hexen/d2fxb5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxc1
+{
+	map "brightmaps/sprites/hexen/d2fxc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxc2c8
+{
+	map "brightmaps/sprites/hexen/d2fxc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxc3c7
+{
+	map "brightmaps/sprites/hexen/d2fxc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxc4c6
+{
+	map "brightmaps/sprites/hexen/d2fxc4c6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxc5
+{
+	map "brightmaps/sprites/hexen/d2fxc5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxd1
+{
+	map "brightmaps/sprites/hexen/d2fxd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxd2d8
+{
+	map "brightmaps/sprites/hexen/d2fxd2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxd3d7
+{
+	map "brightmaps/sprites/hexen/d2fxd3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxd4d6
+{
+	map "brightmaps/sprites/hexen/d2fxd4d6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxd5
+{
+	map "brightmaps/sprites/hexen/d2fxd5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxe1
+{
+	map "brightmaps/sprites/hexen/d2fxe1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxe2e8
+{
+	map "brightmaps/sprites/hexen/d2fxe2e8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxe3e7
+{
+	map "brightmaps/sprites/hexen/d2fxe3e7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxe4e6
+{
+	map "brightmaps/sprites/hexen/d2fxe4e6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxe5
+{
+	map "brightmaps/sprites/hexen/d2fxe5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxf1
+{
+	map "brightmaps/sprites/hexen/d2fxf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxf2f8
+{
+	map "brightmaps/sprites/hexen/d2fxf2f8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxf3f7
+{
+	map "brightmaps/sprites/hexen/d2fxf3f7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxf4f6
+{
+	map "brightmaps/sprites/hexen/d2fxf4f6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxf5
+{
+	map "brightmaps/sprites/hexen/d2fxf5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxg0
+{
+	map "brightmaps/sprites/hexen/d2fxg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxh0
+{
+	map "brightmaps/sprites/hexen/d2fxh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxi0
+{
+	map "brightmaps/sprites/hexen/d2fxi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxj0
+{
+	map "brightmaps/sprites/hexen/d2fxj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxk0
+{
+	map "brightmaps/sprites/hexen/d2fxk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite d2fxl0
+{
+	map "brightmaps/sprites/hexen/d2fxl0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== CENTAUR
+	
+brightmap sprite centa1
+{
+	map "brightmaps/sprites/hexen/centa1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centa2
+{
+	map "brightmaps/sprites/hexen/centa2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centa3
+{
+	map "brightmaps/sprites/hexen/centa3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centb1
+{
+	map "brightmaps/sprites/hexen/centb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centb2
+{
+	map "brightmaps/sprites/hexen/centb2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centb3
+{
+	map "brightmaps/sprites/hexen/centb3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centc1
+{
+	map "brightmaps/sprites/hexen/centc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centc2
+{
+	map "brightmaps/sprites/hexen/centc2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centc3
+{
+	map "brightmaps/sprites/hexen/centc3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centd1
+{
+	map "brightmaps/sprites/hexen/centd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centd2
+{
+	map "brightmaps/sprites/hexen/centd2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centd3
+{
+	map "brightmaps/sprites/hexen/centd3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cente1
+{
+	map "brightmaps/sprites/hexen/cente1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cente2
+{
+	map "brightmaps/sprites/hexen/cente2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cente8
+{
+	map "brightmaps/sprites/hexen/cente8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centf1
+{
+	map "brightmaps/sprites/hexen/centf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centf2
+{
+	map "brightmaps/sprites/hexen/centf2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centf3
+{
+	map "brightmaps/sprites/hexen/centf3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centf4
+{
+	map "brightmaps/sprites/hexen/centf4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centf5
+{
+	map "brightmaps/sprites/hexen/centf5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centf6
+{
+	map "brightmaps/sprites/hexen/centf6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centf7
+{
+	map "brightmaps/sprites/hexen/centf7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centf8
+{
+	map "brightmaps/sprites/hexen/centf8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centg1
+{
+	map "brightmaps/sprites/hexen/centg1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centg2
+{
+	map "brightmaps/sprites/hexen/centg2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centg3
+{
+	map "brightmaps/sprites/hexen/centg3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centh1
+{
+	map "brightmaps/sprites/hexen/centh1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centh2
+{
+	map "brightmaps/sprites/hexen/centh2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centh3
+{
+	map "brightmaps/sprites/hexen/centh3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centh6
+{
+	map "brightmaps/sprites/hexen/centh6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centh7
+{
+	map "brightmaps/sprites/hexen/centh7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centh8
+{
+	map "brightmaps/sprites/hexen/centh8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centi1
+{
+	map "brightmaps/sprites/hexen/centi1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centi2
+{
+	map "brightmaps/sprites/hexen/centi2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centi3
+{
+	map "brightmaps/sprites/hexen/centi3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centi8
+{
+	map "brightmaps/sprites/hexen/centi8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centj1
+{
+	map "brightmaps/sprites/hexen/centj1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centj2
+{
+	map "brightmaps/sprites/hexen/centj2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centj3
+{
+	map "brightmaps/sprites/hexen/centj3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centj7
+{
+	map "brightmaps/sprites/hexen/centj7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centj8
+{
+	map "brightmaps/sprites/hexen/centj8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centk0
+{
+	map "brightmaps/sprites/hexen/centk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centl0
+{
+	map "brightmaps/sprites/hexen/centl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite centm0
+{
+	map "brightmaps/sprites/hexen/centm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctdpg0
+{
+	map "brightmaps/sprites/hexen/ctdpg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctxda0
+{
+	map "brightmaps/sprites/hexen/ctxda0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxa1
+{
+	map "brightmaps/sprites/hexen/ctfxa1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxa2a8
+{
+	map "brightmaps/sprites/hexen/ctfxa2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxa3a7
+{
+	map "brightmaps/sprites/hexen/ctfxa3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxa4a6
+{
+	map "brightmaps/sprites/hexen/ctfxa4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxa5
+{
+	map "brightmaps/sprites/hexen/ctfxa5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxb0
+{
+	map "brightmaps/sprites/hexen/ctfxb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxc0
+{
+	map "brightmaps/sprites/hexen/ctfxc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxd0
+{
+	map "brightmaps/sprites/hexen/ctfxd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxe0
+{
+	map "brightmaps/sprites/hexen/ctfxe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ctfxf0
+{
+	map "brightmaps/sprites/hexen/ctfxf0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== DARK BISHOP
+	
+brightmap sprite bishc1
+{
+	map "brightmaps/sprites/hexen/bishc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishc7c3
+{
+	map "brightmaps/sprites/hexen/bishc7c3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishc8c2
+{
+	map "brightmaps/sprites/hexen/bishc8c2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishd1
+{
+	map "brightmaps/sprites/hexen/bishd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishd7d3
+{
+	map "brightmaps/sprites/hexen/bishd7d3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishd8d2
+{
+	map "brightmaps/sprites/hexen/bishd8d2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishe1
+{
+	map "brightmaps/sprites/hexen/bishe1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishe7e3
+{
+	map "brightmaps/sprites/hexen/bishe7e3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishe8e2
+{
+	map "brightmaps/sprites/hexen/bishe8e2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishe6e4
+{
+	map "brightmaps/sprites/hexen/bishe6e4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishe5
+{
+	map "brightmaps/sprites/hexen/bishe5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishf1
+{
+	map "brightmaps/sprites/hexen/bishf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishf7f3
+{
+	map "brightmaps/sprites/hexen/bishf7f3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishf8f2
+{
+	map "brightmaps/sprites/hexen/bishf8f2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishf6f4
+{
+	map "brightmaps/sprites/hexen/bishf6f4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishf5
+{
+	map "brightmaps/sprites/hexen/bishf5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishg0
+{
+	map "brightmaps/sprites/hexen/bishg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishh0
+{
+	map "brightmaps/sprites/hexen/bishh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishi0
+{
+	map "brightmaps/sprites/hexen/bishi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishj0
+{
+	map "brightmaps/sprites/hexen/bishj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishk0
+{
+	map "brightmaps/sprites/hexen/bishk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishl0
+{
+	map "brightmaps/sprites/hexen/bishl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite bishm0
+{
+	map "brightmaps/sprites/hexen/bishm0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== DEATH WYVERN
+	
+brightmap sprite drfxa1
+{
+	map "brightmaps/sprites/hexen/drfxa1.png"
+	iwad
+  disablefullbright
+}	
+	
+brightmap sprite drfxa2a8
+{
+	map "brightmaps/sprites/hexen/drfxa2a8.png"
+	iwad
+  disablefullbright
+}	
+
+brightmap sprite drfxa3a7
+{
+	map "brightmaps/sprites/hexen/drfxa3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxa4a6
+{
+	map "brightmaps/sprites/hexen/drfxa4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxa5
+{
+	map "brightmaps/sprites/hexen/drfxa5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxb1
+{
+	map "brightmaps/sprites/hexen/drfxb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxb2b8
+{
+	map "brightmaps/sprites/hexen/drfxb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxb3b7
+{
+	map "brightmaps/sprites/hexen/drfxb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxb4b6
+{
+	map "brightmaps/sprites/hexen/drfxb4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxb5
+{
+	map "brightmaps/sprites/hexen/drfxb5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxc1
+{
+	map "brightmaps/sprites/hexen/drfxc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxc2c8
+{
+	map "brightmaps/sprites/hexen/drfxc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxc3c7
+{
+	map "brightmaps/sprites/hexen/drfxc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxc4c6
+{
+	map "brightmaps/sprites/hexen/drfxc4c6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxc5
+{
+	map "brightmaps/sprites/hexen/drfxc5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxd1
+{
+	map "brightmaps/sprites/hexen/drfxd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxd2d8
+{
+	map "brightmaps/sprites/hexen/drfxd2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxd3d7
+{
+	map "brightmaps/sprites/hexen/drfxd3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxd4d6
+{
+	map "brightmaps/sprites/hexen/drfxd4d6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxd5
+{
+	map "brightmaps/sprites/hexen/drfxd5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxe1
+{
+	map "brightmaps/sprites/hexen/drfxe1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxe2e8
+{
+	map "brightmaps/sprites/hexen/drfxe2e8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxe3e7
+{
+	map "brightmaps/sprites/hexen/drfxe3e7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxe4e6
+{
+	map "brightmaps/sprites/hexen/drfxe4e6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxe5
+{
+	map "brightmaps/sprites/hexen/drfxe5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxf1
+{
+	map "brightmaps/sprites/hexen/drfxf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxf2f8
+{
+	map "brightmaps/sprites/hexen/drfxf2f8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxf3f7
+{
+	map "brightmaps/sprites/hexen/drfxf3f7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxf4f6
+{
+	map "brightmaps/sprites/hexen/drfxf4f6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxf5
+{
+	map "brightmaps/sprites/hexen/drfxf5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxg0
+{
+	map "brightmaps/sprites/hexen/drfxg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxh0
+{
+	map "brightmaps/sprites/hexen/drfxh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxi0
+{
+	map "brightmaps/sprites/hexen/drfxi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxj0
+{
+	map "brightmaps/sprites/hexen/drfxj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxk0
+{
+	map "brightmaps/sprites/hexen/drfxk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite drfxl0
+{
+	map "brightmaps/sprites/hexen/drfxl0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== DECORATIONS
+	
+brightmap sprite shrma0
+{
+	map "brightmaps/sprites/hexen/shrma0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrmb0
+{
+	map "brightmaps/sprites/hexen/shrmb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrmc0
+{
+	map "brightmaps/sprites/hexen/shrmc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrmd0
+{
+	map "brightmaps/sprites/hexen/shrmd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrme0
+{
+	map "brightmaps/sprites/hexen/shrme0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite xmasb0
+{
+	map "brightmaps/sprites/hexen/xmasb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite xmasc0
+{
+	map "brightmaps/sprites/hexen/xmasc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite xmasd0
+{
+	map "brightmaps/sprites/hexen/xmasd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite xmase0
+{
+	map "brightmaps/sprites/hexen/xmase0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite xmasf0
+{
+	map "brightmaps/sprites/hexen/xmasf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite xmasg0
+{
+	map "brightmaps/sprites/hexen/xmasg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite xmash0
+{
+	map "brightmaps/sprites/hexen/xmash0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shb1b0
+{
+	map "brightmaps/sprites/hexen/shb1b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shb1c0
+{
+	map "brightmaps/sprites/hexen/shb1c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shb1d0
+{
+	map "brightmaps/sprites/hexen/shb1d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shb2b0
+{
+	map "brightmaps/sprites/hexen/shb2b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shb2c0
+{
+	map "brightmaps/sprites/hexen/shb2c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shb2d0
+{
+	map "brightmaps/sprites/hexen/shb2d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shb2e0
+{
+	map "brightmaps/sprites/hexen/shb2e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdth0
+{
+	map "brightmaps/sprites/hexen/trdth0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdti0
+{
+	map "brightmaps/sprites/hexen/trdti0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdtj0
+{
+	map "brightmaps/sprites/hexen/trdtj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdtk0
+{
+	map "brightmaps/sprites/hexen/trdtk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdtl0
+{
+	map "brightmaps/sprites/hexen/trdtl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdtm0
+{
+	map "brightmaps/sprites/hexen/trdtm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdtn0
+{
+	map "brightmaps/sprites/hexen/trdtn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdto0
+{
+	map "brightmaps/sprites/hexen/trdto0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite trdtp0
+{
+	map "brightmaps/sprites/hexen/trdtp0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== ETTIN
+	
+brightmap sprite ettba0
+{
+	map "brightmaps/sprites/hexen/ettba0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite ettna1
+{
+	map "brightmaps/sprites/hexen/ettna1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettna2
+{
+	map "brightmaps/sprites/hexen/ettna2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettna3
+{
+	map "brightmaps/sprites/hexen/ettna3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettna7
+{
+	map "brightmaps/sprites/hexen/ettna7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettna8
+{
+	map "brightmaps/sprites/hexen/ettna8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnb1
+{
+	map "brightmaps/sprites/hexen/ettnb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnb2
+{
+	map "brightmaps/sprites/hexen/ettnb2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnb3
+{
+	map "brightmaps/sprites/hexen/ettnb3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnb4
+{
+	map "brightmaps/sprites/hexen/ettnb4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnb6
+{
+	map "brightmaps/sprites/hexen/ettnb6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnb7
+{
+	map "brightmaps/sprites/hexen/ettnb7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnb8
+{
+	map "brightmaps/sprites/hexen/ettnb8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnc1
+{
+	map "brightmaps/sprites/hexen/ettnc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnc2
+{
+	map "brightmaps/sprites/hexen/ettnc2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnc3
+{
+	map "brightmaps/sprites/hexen/ettnc3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnc7
+{
+	map "brightmaps/sprites/hexen/ettnc7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnc8
+{
+	map "brightmaps/sprites/hexen/ettnc8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnd1
+{
+	map "brightmaps/sprites/hexen/ettnd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnd2
+{
+	map "brightmaps/sprites/hexen/ettnd2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnd3
+{
+	map "brightmaps/sprites/hexen/ettnd3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnd4
+{
+	map "brightmaps/sprites/hexen/ettnd4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnd6
+{
+	map "brightmaps/sprites/hexen/ettnd6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnd7
+{
+	map "brightmaps/sprites/hexen/ettnd7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnd8
+{
+	map "brightmaps/sprites/hexen/ettnd8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettne1
+{
+	map "brightmaps/sprites/hexen/ettne1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettne2
+{
+	map "brightmaps/sprites/hexen/ettne2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettne3
+{
+	map "brightmaps/sprites/hexen/ettne3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettne6
+{
+	map "brightmaps/sprites/hexen/ettne6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettne7
+{
+	map "brightmaps/sprites/hexen/ettne7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettne8
+{
+	map "brightmaps/sprites/hexen/ettne8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnf1
+{
+	map "brightmaps/sprites/hexen/ettnf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnf2
+{
+	map "brightmaps/sprites/hexen/ettnf2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnf3
+{
+	map "brightmaps/sprites/hexen/ettnf3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnf4
+{
+	map "brightmaps/sprites/hexen/ettnf4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnf7
+{
+	map "brightmaps/sprites/hexen/ettnf7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnf8
+{
+	map "brightmaps/sprites/hexen/ettnf8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettng1
+{
+	map "brightmaps/sprites/hexen/ettng1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettng2
+{
+	map "brightmaps/sprites/hexen/ettng2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettng3
+{
+	map "brightmaps/sprites/hexen/ettng3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettng4
+{
+	map "brightmaps/sprites/hexen/ettng4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettng7
+{
+	map "brightmaps/sprites/hexen/ettng7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettng8
+{
+	map "brightmaps/sprites/hexen/ettng8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnh1
+{
+	map "brightmaps/sprites/hexen/ettnh1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnh2
+{
+	map "brightmaps/sprites/hexen/ettnh2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnh3
+{
+	map "brightmaps/sprites/hexen/ettnh3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnh5
+{
+	map "brightmaps/sprites/hexen/ettnh5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnh7
+{
+	map "brightmaps/sprites/hexen/ettnh7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettnh8
+{
+	map "brightmaps/sprites/hexen/ettnh8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ettni0
+{
+	map "brightmaps/sprites/hexen/ettni0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== GREEN CHAOS SERPENT
+	
+brightmap sprite demna2a8
+{
+	map "brightmaps/sprites/hexen/demna2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demna3a7
+{
+	map "brightmaps/sprites/hexen/demna3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demna4a6
+{
+	map "brightmaps/sprites/hexen/demna4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnb1
+{
+	map "brightmaps/sprites/hexen/demnb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnb2b8
+{
+	map "brightmaps/sprites/hexen/demnb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnb3b7
+{
+	map "brightmaps/sprites/hexen/demnb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demna1
+{
+	map "brightmaps/sprites/hexen/demna1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnb4b6
+{
+	map "brightmaps/sprites/hexen/demnb4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnc1
+{
+	map "brightmaps/sprites/hexen/demnc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnc2c8
+{
+	map "brightmaps/sprites/hexen/demnc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnc3c7
+{
+	map "brightmaps/sprites/hexen/demnc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnc4c6
+{
+	map "brightmaps/sprites/hexen/demnc4c6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnd1
+{
+	map "brightmaps/sprites/hexen/demnd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnd2d8
+{
+	map "brightmaps/sprites/hexen/demnd2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnd3d7
+{
+	map "brightmaps/sprites/hexen/demnd3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnd4d6
+{
+	map "brightmaps/sprites/hexen/demnd4d6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demne1
+{
+	map "brightmaps/sprites/hexen/demne1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demne2e8
+{
+	map "brightmaps/sprites/hexen/demne2e8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demne3e7
+{
+	map "brightmaps/sprites/hexen/demne3e7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demne4e6
+{
+	map "brightmaps/sprites/hexen/demne4e6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnf1
+{
+	map "brightmaps/sprites/hexen/demnf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnf2f8
+{
+	map "brightmaps/sprites/hexen/demnf2f8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnf3f7
+{
+	map "brightmaps/sprites/hexen/demnf3f7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnf4f6
+{
+	map "brightmaps/sprites/hexen/demnf4f6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demng1
+{
+	map "brightmaps/sprites/hexen/demng1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demng2g8
+{
+	map "brightmaps/sprites/hexen/demng2g8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demng3g7
+{
+	map "brightmaps/sprites/hexen/demng3g7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnh0
+{
+	map "brightmaps/sprites/hexen/demnh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demni0
+{
+	map "brightmaps/sprites/hexen/demni0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnj0
+{
+	map "brightmaps/sprites/hexen/demnj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnk0
+{
+	map "brightmaps/sprites/hexen/demnk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite demnl0
+{
+	map "brightmaps/sprites/hexen/demnl0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== HERESIARCH
+	
+brightmap sprite sbfxa0
+{
+	map "brightmaps/sprites/hexen/sbfxa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxb0
+{
+	map "brightmaps/sprites/hexen/sbfxb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxc0
+{
+	map "brightmaps/sprites/hexen/sbfxc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxd0
+{
+	map "brightmaps/sprites/hexen/sbfxd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxe0
+{
+	map "brightmaps/sprites/hexen/sbfxe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxf0
+{
+	map "brightmaps/sprites/hexen/sbfxf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxg0
+{
+	map "brightmaps/sprites/hexen/sbfxg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxh0
+{
+	map "brightmaps/sprites/hexen/sbfxh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxi0
+{
+	map "brightmaps/sprites/hexen/sbfxi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxj0
+{
+	map "brightmaps/sprites/hexen/sbfxj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxk0
+{
+	map "brightmaps/sprites/hexen/sbfxk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbfxl0
+{
+	map "brightmaps/sprites/hexen/sbfxl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1a1
+{
+	map "brightmaps/sprites/hexen/sbs1a1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1a2a8
+{
+	map "brightmaps/sprites/hexen/sbs1a2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1a3a7
+{
+	map "brightmaps/sprites/hexen/sbs1a3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1a4a6
+{
+	map "brightmaps/sprites/hexen/sbs1a4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1a5
+{
+	map "brightmaps/sprites/hexen/sbs1a5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1b1
+{
+	map "brightmaps/sprites/hexen/sbs1b1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1b2b8
+{
+	map "brightmaps/sprites/hexen/sbs1b2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1b3b7
+{
+	map "brightmaps/sprites/hexen/sbs1b3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1b4b6
+{
+	map "brightmaps/sprites/hexen/sbs1b4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1b5
+{
+	map "brightmaps/sprites/hexen/sbs1b5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1c1
+{
+	map "brightmaps/sprites/hexen/sbs1c1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1c2c8
+{
+	map "brightmaps/sprites/hexen/sbs1c2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1c3c7
+{
+	map "brightmaps/sprites/hexen/sbs1c3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1c4c6
+{
+	map "brightmaps/sprites/hexen/sbs1c4c6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1c5
+{
+	map "brightmaps/sprites/hexen/sbs1c5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1d1
+{
+	map "brightmaps/sprites/hexen/sbs1d1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1d2d8
+{
+	map "brightmaps/sprites/hexen/sbs1d2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1d3d7
+{
+	map "brightmaps/sprites/hexen/sbs1d3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1d4d6
+{
+	map "brightmaps/sprites/hexen/sbs1d4d6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs1d5
+{
+	map "brightmaps/sprites/hexen/sbs1d5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs3a0
+{
+	map "brightmaps/sprites/hexen/sbs3a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs3b0
+{
+	map "brightmaps/sprites/hexen/sbs3b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs3c0
+{
+	map "brightmaps/sprites/hexen/sbs3c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs3d0
+{
+	map "brightmaps/sprites/hexen/sbs3d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs3e0
+{
+	map "brightmaps/sprites/hexen/sbs3e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs3f0
+{
+	map "brightmaps/sprites/hexen/sbs3f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs3g0
+{
+	map "brightmaps/sprites/hexen/sbs3g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs3h0
+{
+	map "brightmaps/sprites/hexen/sbs3h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs4a0
+{
+	map "brightmaps/sprites/hexen/sbs4a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs4b0
+{
+	map "brightmaps/sprites/hexen/sbs4b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs4c0
+{
+	map "brightmaps/sprites/hexen/sbs4c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs4d0
+{
+	map "brightmaps/sprites/hexen/sbs4d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs4e0
+{
+	map "brightmaps/sprites/hexen/sbs4e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs4f0
+{
+	map "brightmaps/sprites/hexen/sbs4f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs4g0
+{
+	map "brightmaps/sprites/hexen/sbs4g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbs4h0
+{
+	map "brightmaps/sprites/hexen/sbs4h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorce1
+{
+	map "brightmaps/sprites/hexen/sorce1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorce2
+{
+	map "brightmaps/sprites/hexen/sorce2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorce3
+{
+	map "brightmaps/sprites/hexen/sorce3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorce4
+{
+	map "brightmaps/sprites/hexen/sorce4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorce5
+{
+	map "brightmaps/sprites/hexen/sorce5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorce6
+{
+	map "brightmaps/sprites/hexen/sorce6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorce7
+{
+	map "brightmaps/sprites/hexen/sorce7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorce8
+{
+	map "brightmaps/sprites/hexen/sorce8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorcf1
+{
+	map "brightmaps/sprites/hexen/sorcf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorcf2
+{
+	map "brightmaps/sprites/hexen/sorcf2.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcf3
+{
+	map "brightmaps/sprites/hexen/sorcf3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorcf4
+{
+	map "brightmaps/sprites/hexen/sorcf4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorcf5
+{
+	map "brightmaps/sprites/hexen/sorcf5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorcf6
+{
+	map "brightmaps/sprites/hexen/sorcf6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorcf7
+{
+	map "brightmaps/sprites/hexen/sorcf7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorcf8
+{
+	map "brightmaps/sprites/hexen/sorcf8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorci0
+{
+	map "brightmaps/sprites/hexen/sorci0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sorcj0
+{
+	map "brightmaps/sprites/hexen/sorcj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmba0
+{
+	map "brightmaps/sprites/hexen/sbmba0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbb0
+{
+	map "brightmaps/sprites/hexen/sbmbb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbc0
+{
+	map "brightmaps/sprites/hexen/sbmbc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbd0
+{
+	map "brightmaps/sprites/hexen/sbmbd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbe0
+{
+	map "brightmaps/sprites/hexen/sbmbe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbf0
+{
+	map "brightmaps/sprites/hexen/sbmbf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbg0
+{
+	map "brightmaps/sprites/hexen/sbmbg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbh0
+{
+	map "brightmaps/sprites/hexen/sbmbh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbi0
+{
+	map "brightmaps/sprites/hexen/sbmbi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbj0
+{
+	map "brightmaps/sprites/hexen/sbmbj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbk0
+{
+	map "brightmaps/sprites/hexen/sbmbk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbl0
+{
+	map "brightmaps/sprites/hexen/sbmbl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbm0
+{
+	map "brightmaps/sprites/hexen/sbmbm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbn0
+{
+	map "brightmaps/sprites/hexen/sbmbn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbo0
+{
+	map "brightmaps/sprites/hexen/sbmbo0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmbp0
+{
+	map "brightmaps/sprites/hexen/sbmbp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmga0
+{
+	map "brightmaps/sprites/hexen/sbmga0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmgb0
+{
+	map "brightmaps/sprites/hexen/sbmgb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sbmgc0
+{
+	map "brightmaps/sprites/hexen/sbmgc0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgd0
+{
+	map "brightmaps/sprites/hexen/sbmgd0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmge0
+{
+	map "brightmaps/sprites/hexen/sbmge0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgf0
+{
+	map "brightmaps/sprites/hexen/sbmgf0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgg0
+{
+	map "brightmaps/sprites/hexen/sbmgg0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgh0
+{
+	map "brightmaps/sprites/hexen/sbmgh0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgi0
+{
+	map "brightmaps/sprites/hexen/sbmgi0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgj0
+{
+	map "brightmaps/sprites/hexen/sbmgj0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgk0
+{
+	map "brightmaps/sprites/hexen/sbmgk0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgl0
+{
+	map "brightmaps/sprites/hexen/sbmgl0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgm0
+{
+	map "brightmaps/sprites/hexen/sbmgm0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgn0
+{
+	map "brightmaps/sprites/hexen/sbmgn0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgo0
+{
+	map "brightmaps/sprites/hexen/sbmgo0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmgp0
+{
+	map "brightmaps/sprites/hexen/sbmgp0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpa0
+{
+	map "brightmaps/sprites/hexen/sbmpa0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpb0
+{
+	map "brightmaps/sprites/hexen/sbmpb0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpc0
+{
+	map "brightmaps/sprites/hexen/sbmpc0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpd0
+{
+	map "brightmaps/sprites/hexen/sbmpd0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpe0
+{
+	map "brightmaps/sprites/hexen/sbmpe0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpf0
+{
+	map "brightmaps/sprites/hexen/sbmpf0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpg0
+{
+	map "brightmaps/sprites/hexen/sbmpg0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmph0
+{
+	map "brightmaps/sprites/hexen/sbmph0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpi0
+{
+	map "brightmaps/sprites/hexen/sbmpi0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpj0
+{
+	map "brightmaps/sprites/hexen/sbmpj0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpk0
+{
+	map "brightmaps/sprites/hexen/sbmpk0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpl0
+{
+	map "brightmaps/sprites/hexen/sbmpl0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpm0
+{
+	map "brightmaps/sprites/hexen/sbmpm0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpn0
+{
+	map "brightmaps/sprites/hexen/sbmpn0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpo0
+{
+	map "brightmaps/sprites/hexen/sbmpo0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbmpp0
+{
+	map "brightmaps/sprites/hexen/sbmpp0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2a0
+{
+	map "brightmaps/sprites/hexen/sbs2a0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2b0
+{
+	map "brightmaps/sprites/hexen/sbs2b0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2c0
+{
+	map "brightmaps/sprites/hexen/sbs2c0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2d0
+{
+	map "brightmaps/sprites/hexen/sbs2d0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2e0
+{
+	map "brightmaps/sprites/hexen/sbs2e0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2f0
+{
+	map "brightmaps/sprites/hexen/sbs2f0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2g0
+{
+	map "brightmaps/sprites/hexen/sbs2g0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2h0
+{
+	map "brightmaps/sprites/hexen/sbs2h0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2i0
+{
+	map "brightmaps/sprites/hexen/sbs2i0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2j0
+{
+	map "brightmaps/sprites/hexen/sbs2j0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2k0
+{
+	map "brightmaps/sprites/hexen/sbs2k0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2l0
+{
+	map "brightmaps/sprites/hexen/sbs2l0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2m0
+{
+	map "brightmaps/sprites/hexen/sbs2m0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2n0
+{
+	map "brightmaps/sprites/hexen/sbs2n0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2o0
+{
+	map "brightmaps/sprites/hexen/sbs2o0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sbs2p0
+{
+	map "brightmaps/sprites/hexen/sbs2p0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorck0
+{
+	map "brightmaps/sprites/hexen/sorck0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcl0
+{
+	map "brightmaps/sprites/hexen/sorcl0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcm0
+{
+	map "brightmaps/sprites/hexen/sorcm0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcn0
+{
+	map "brightmaps/sprites/hexen/sorcn0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorco0
+{
+	map "brightmaps/sprites/hexen/sorco0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcp0
+{
+	map "brightmaps/sprites/hexen/sorcp0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcq0
+{
+	map "brightmaps/sprites/hexen/sorcq0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcr0
+{
+	map "brightmaps/sprites/hexen/sorcr0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcs0
+{
+	map "brightmaps/sprites/hexen/sorcs0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorct0
+{
+	map "brightmaps/sprites/hexen/sorct0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcu0
+{
+	map "brightmaps/sprites/hexen/sorcu0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcv0
+{
+	map "brightmaps/sprites/hexen/sorcv0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcw0
+{
+	map "brightmaps/sprites/hexen/sorcw0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcx0
+{
+	map "brightmaps/sprites/hexen/sorcx0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcy0
+{
+	map "brightmaps/sprites/hexen/sorcy0.png"
+	iwad
+  disablefullbright
+}
+brightmap sprite sorcz0
+{
+	map "brightmaps/sprites/hexen/sorcz0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== KEYS
+	
+brightmap sprite keyba0
+{
+	map "brightmaps/sprites/hexen/keyba0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite key4a0
+{
+	map "brightmaps/sprites/hexen/key4a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite key5a0
+{
+	map "brightmaps/sprites/hexen/key5a0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== KORAX
+	
+brightmap sprite korxa1
+{
+	map "brightmaps/sprites/hexen/korxa1.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite korxa2a8
+{
+	map "brightmaps/sprites/hexen/korxa2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxa3a7
+{
+	map "brightmaps/sprites/hexen/korxa3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxa4a6
+{
+	map "brightmaps/sprites/hexen/korxa4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxb1
+{
+	map "brightmaps/sprites/hexen/korxb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxb2b8
+{
+	map "brightmaps/sprites/hexen/korxb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxb3b7
+{
+	map "brightmaps/sprites/hexen/korxb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxb4b6
+{
+	map "brightmaps/sprites/hexen/korxb4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxc1
+{
+	map "brightmaps/sprites/hexen/korxc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxc2c8
+{
+	map "brightmaps/sprites/hexen/korxc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxc3c7
+{
+	map "brightmaps/sprites/hexen/korxc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxd1
+{
+	map "brightmaps/sprites/hexen/korxd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxd2d8
+{
+	map "brightmaps/sprites/hexen/korxd2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxd3d7
+{
+	map "brightmaps/sprites/hexen/korxd3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxd4d6
+{
+	map "brightmaps/sprites/hexen/korxd4d6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxe1
+{
+	map "brightmaps/sprites/hexen/korxe1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxe2e8
+{
+	map "brightmaps/sprites/hexen/korxe2e8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxe3e7
+{
+	map "brightmaps/sprites/hexen/korxe3e7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxe4e6
+{
+	map "brightmaps/sprites/hexen/korxe4e6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxf1
+{
+	map "brightmaps/sprites/hexen/korxf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxf2f8
+{
+	map "brightmaps/sprites/hexen/korxf2f8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxf3f7
+{
+	map "brightmaps/sprites/hexen/korxf3f7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxf4f6
+{
+	map "brightmaps/sprites/hexen/korxf4f6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxf5
+{
+	map "brightmaps/sprites/hexen/korxf5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxg1
+{
+	map "brightmaps/sprites/hexen/korxg1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxg2g8
+{
+	map "brightmaps/sprites/hexen/korxg2g8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxg3g7
+{
+	map "brightmaps/sprites/hexen/korxg3g7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxg4g6
+{
+	map "brightmaps/sprites/hexen/korxg4g6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxg5
+{
+	map "brightmaps/sprites/hexen/korxg5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxh1
+{
+	map "brightmaps/sprites/hexen/korxh1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxh2h8
+{
+	map "brightmaps/sprites/hexen/korxh2h8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxh3h7
+{
+	map "brightmaps/sprites/hexen/korxh3h7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxi0
+{
+	map "brightmaps/sprites/hexen/korxi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxj0
+{
+	map "brightmaps/sprites/hexen/korxj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxk0
+{
+	map "brightmaps/sprites/hexen/korxk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxl0
+{
+	map "brightmaps/sprites/hexen/korxl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxm0
+{
+	map "brightmaps/sprites/hexen/korxm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxr0
+{
+	map "brightmaps/sprites/hexen/korxr0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxs0
+{
+	map "brightmaps/sprites/hexen/korxs0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxt0
+{
+	map "brightmaps/sprites/hexen/korxt0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxu0
+{
+	map "brightmaps/sprites/hexen/korxu0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxv0
+{
+	map "brightmaps/sprites/hexen/korxv0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxw1
+{
+	map "brightmaps/sprites/hexen/korxw1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxw2w8
+{
+	map "brightmaps/sprites/hexen/korxw2w8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxw3w7
+{
+	map "brightmaps/sprites/hexen/korxw3w7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite korxw4w6
+{
+	map "brightmaps/sprites/hexen/korxw4w6.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== LIGHTING
+	
+brightmap sprite cdlra0
+{
+	map "brightmaps/sprites/hexen/cdlra0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdlrb0
+{
+	map "brightmaps/sprites/hexen/cdlrb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdlrc0
+{
+	map "brightmaps/sprites/hexen/cdlrc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtra0
+{
+	map "brightmaps/sprites/hexen/brtra0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrb0
+{
+	map "brightmaps/sprites/hexen/brtrb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrc0
+{
+	map "brightmaps/sprites/hexen/brtrc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrd0
+{
+	map "brightmaps/sprites/hexen/brtrd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtre0
+{
+	map "brightmaps/sprites/hexen/brtre0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrf0
+{
+	map "brightmaps/sprites/hexen/brtrf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrg0
+{
+	map "brightmaps/sprites/hexen/brtrg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrh0
+{
+	map "brightmaps/sprites/hexen/brtrh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtri0
+{
+	map "brightmaps/sprites/hexen/brtri0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrj0
+{
+	map "brightmaps/sprites/hexen/brtrj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrk0
+{
+	map "brightmaps/sprites/hexen/brtrk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrl0
+{
+	map "brightmaps/sprites/hexen/brtrl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite brtrm0
+{
+	map "brightmaps/sprites/hexen/brtrm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite canda0
+{
+	map "brightmaps/sprites/hexen/canda0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite candb0
+{
+	map "brightmaps/sprites/hexen/candb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite candc0
+{
+	map "brightmaps/sprites/hexen/candc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite candd0
+{
+	map "brightmaps/sprites/hexen/candd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cande0
+{
+	map "brightmaps/sprites/hexen/cande0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdrnb0
+{
+	map "brightmaps/sprites/hexen/cdrnb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdrnc0
+{
+	map "brightmaps/sprites/hexen/cdrnc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdrnd0
+{
+	map "brightmaps/sprites/hexen/cdrnd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdrne0
+{
+	map "brightmaps/sprites/hexen/cdrne0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdrnf0
+{
+	map "brightmaps/sprites/hexen/cdrnf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdrng0
+{
+	map "brightmaps/sprites/hexen/cdrng0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cdrnh0
+{
+	map "brightmaps/sprites/hexen/cdrnh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cndla0
+{
+	map "brightmaps/sprites/hexen/cndla0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cndlb0
+{
+	map "brightmaps/sprites/hexen/cndlb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cndlc0
+{
+	map "brightmaps/sprites/hexen/cndlc0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite fflga0
+{
+	map "brightmaps/sprites/hexen/fflga0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgb0
+{
+	map "brightmaps/sprites/hexen/fflgb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgc0
+{
+	map "brightmaps/sprites/hexen/fflgc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgd0
+{
+	map "brightmaps/sprites/hexen/fflgd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflge0
+{
+	map "brightmaps/sprites/hexen/fflge0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgf0
+{
+	map "brightmaps/sprites/hexen/fflgf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgg0
+{
+	map "brightmaps/sprites/hexen/fflgg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgh0
+{
+	map "brightmaps/sprites/hexen/fflgh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgi0
+{
+	map "brightmaps/sprites/hexen/fflgi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgj0
+{
+	map "brightmaps/sprites/hexen/fflgj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgk0
+{
+	map "brightmaps/sprites/hexen/fflgk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgl0
+{
+	map "brightmaps/sprites/hexen/fflgl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgm0
+{
+	map "brightmaps/sprites/hexen/fflgm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgn0
+{
+	map "brightmaps/sprites/hexen/fflgn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgo0
+{
+	map "brightmaps/sprites/hexen/fflgo0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgp0
+{
+	map "brightmaps/sprites/hexen/fflgp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fflgq0
+{
+	map "brightmaps/sprites/hexen/fflgq0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ffsma0
+{
+	map "brightmaps/sprites/hexen/ffsma0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ffsmb0
+{
+	map "brightmaps/sprites/hexen/ffsmb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ffsmc0
+{
+	map "brightmaps/sprites/hexen/ffsmc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ffsmd0
+{
+	map "brightmaps/sprites/hexen/ffsmd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ffsme0
+{
+	map "brightmaps/sprites/hexen/ffsme0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fskla0
+{
+	map "brightmaps/sprites/hexen/fskla0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsklb0
+{
+	map "brightmaps/sprites/hexen/fsklb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsklc0
+{
+	map "brightmaps/sprites/hexen/fsklc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fskld0
+{
+	map "brightmaps/sprites/hexen/fskld0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fskle0
+{
+	map "brightmaps/sprites/hexen/fskle0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsklf0
+{
+	map "brightmaps/sprites/hexen/fsklf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsklg0
+{
+	map "brightmaps/sprites/hexen/fsklg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsklh0
+{
+	map "brightmaps/sprites/hexen/fsklh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fskli0
+{
+	map "brightmaps/sprites/hexen/fskli0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite twtra0
+{
+	map "brightmaps/sprites/hexen/twtra0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite twtrb0
+{
+	map "brightmaps/sprites/hexen/twtrb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite twtrc0
+{
+	map "brightmaps/sprites/hexen/twtrc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite twtrd0
+{
+	map "brightmaps/sprites/hexen/twtrd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite twtre0
+{
+	map "brightmaps/sprites/hexen/twtre0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite twtrf0
+{
+	map "brightmaps/sprites/hexen/twtrf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite twtrg0
+{
+	map "brightmaps/sprites/hexen/twtrg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite twtrh0
+{
+	map "brightmaps/sprites/hexen/twtrh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wltra0
+{
+	map "brightmaps/sprites/hexen/wltra0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wltrb0
+{
+	map "brightmaps/sprites/hexen/wltrb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wltrc0
+{
+	map "brightmaps/sprites/hexen/wltrc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wltrd0
+{
+	map "brightmaps/sprites/hexen/wltrd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wltre0
+{
+	map "brightmaps/sprites/hexen/wltre0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wltrf0
+{
+	map "brightmaps/sprites/hexen/wltrf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wltrg0
+{
+	map "brightmaps/sprites/hexen/wltrg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wltrh0
+{
+	map "brightmaps/sprites/hexen/wltrh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbula0
+{
+	map "brightmaps/sprites/hexen/fbula0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbulb0
+{
+	map "brightmaps/sprites/hexen/fbulb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbulc0
+{
+	map "brightmaps/sprites/hexen/fbulc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbuld0
+{
+	map "brightmaps/sprites/hexen/fbuld0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbule0
+{
+	map "brightmaps/sprites/hexen/fbule0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbulf0
+{
+	map "brightmaps/sprites/hexen/fbulf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbulg0
+{
+	map "brightmaps/sprites/hexen/fbulg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbuli0
+{
+	map "brightmaps/sprites/hexen/fbuli0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbulj0.png
+{
+	map "brightmaps/sprites/hexen/fbulj0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== MAULOTAUR
+	
+brightmap sprite mntra1
+{
+	map "brightmaps/sprites/hexen/mntra1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntra2
+{
+	map "brightmaps/sprites/hexen/mntra2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntra3
+{
+	map "brightmaps/sprites/hexen/mntra3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntra7
+{
+	map "brightmaps/sprites/hexen/mntra7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntra8
+{
+	map "brightmaps/sprites/hexen/mntra8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrb1
+{
+	map "brightmaps/sprites/hexen/mntrb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12a1
+{
+	map "brightmaps/sprites/hexen/fx12a1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12a2a8
+{
+	map "brightmaps/sprites/hexen/fx12a2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12a3a7
+{
+	map "brightmaps/sprites/hexen/fx12a3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12a4a6
+{
+	map "brightmaps/sprites/hexen/fx12a4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12a5
+{
+	map "brightmaps/sprites/hexen/fx12a5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12b1
+{
+	map "brightmaps/sprites/hexen/fx12b1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12b2b8
+{
+	map "brightmaps/sprites/hexen/fx12b2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12b3b7
+{
+	map "brightmaps/sprites/hexen/fx12b3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12b4b6
+{
+	map "brightmaps/sprites/hexen/fx12b4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12b5
+{
+	map "brightmaps/sprites/hexen/fx12b5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12c0
+{
+	map "brightmaps/sprites/hexen/fx12c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12d0
+{
+	map "brightmaps/sprites/hexen/fx12d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12e0
+{
+	map "brightmaps/sprites/hexen/fx12e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12f0
+{
+	map "brightmaps/sprites/hexen/fx12f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12g0
+{
+	map "brightmaps/sprites/hexen/fx12g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx12h0
+{
+	map "brightmaps/sprites/hexen/fx12h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13a0
+{
+	map "brightmaps/sprites/hexen/fx13a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13b0
+{
+	map "brightmaps/sprites/hexen/fx13b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13c0
+{
+	map "brightmaps/sprites/hexen/fx13c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13d0
+{
+	map "brightmaps/sprites/hexen/fx13d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13e0
+{
+	map "brightmaps/sprites/hexen/fx13e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13f0
+{
+	map "brightmaps/sprites/hexen/fx13f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13g0
+{
+	map "brightmaps/sprites/hexen/fx13g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13h0
+{
+	map "brightmaps/sprites/hexen/fx13h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13i0
+{
+	map "brightmaps/sprites/hexen/fx13i0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13j0
+{
+	map "brightmaps/sprites/hexen/fx13j0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13k0
+{
+	map "brightmaps/sprites/hexen/fx13k0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13l0
+{
+	map "brightmaps/sprites/hexen/fx13l0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fx13m0
+{
+	map "brightmaps/sprites/hexen/fx13m0.png"
+	iwad
+  disablefullbright
+}
+	
+brightmap sprite mntrb2
+{
+	map "brightmaps/sprites/hexen/mntrb2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrb3
+{
+	map "brightmaps/sprites/hexen/mntrb3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrb7
+{
+	map "brightmaps/sprites/hexen/mntrb7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrb8
+{
+	map "brightmaps/sprites/hexen/mntrb8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrc1
+{
+	map "brightmaps/sprites/hexen/mntrc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrc2
+{
+	map "brightmaps/sprites/hexen/mntrc2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrc3
+{
+	map "brightmaps/sprites/hexen/mntrc3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrc7
+{
+	map "brightmaps/sprites/hexen/mntrc7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrc8
+{
+	map "brightmaps/sprites/hexen/mntrc8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrd1
+{
+	map "brightmaps/sprites/hexen/mntrd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrd2
+{
+	map "brightmaps/sprites/hexen/mntrd2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrd3
+{
+	map "brightmaps/sprites/hexen/mntrd3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrd7
+{
+	map "brightmaps/sprites/hexen/mntrd7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrd8
+{
+	map "brightmaps/sprites/hexen/mntrd8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntre1
+{
+	map "brightmaps/sprites/hexen/mntre1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntre7
+{
+	map "brightmaps/sprites/hexen/mntre7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntre8
+{
+	map "brightmaps/sprites/hexen/mntre8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrf1
+{
+	map "brightmaps/sprites/hexen/mntrf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrf2
+{
+	map "brightmaps/sprites/hexen/mntrf2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrf3
+{
+	map "brightmaps/sprites/hexen/mntrf3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrf4
+{
+	map "brightmaps/sprites/hexen/mntrf4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrf6
+{
+	map "brightmaps/sprites/hexen/mntrf6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrf7
+{
+	map "brightmaps/sprites/hexen/mntrf7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrf8
+{
+	map "brightmaps/sprites/hexen/mntrf8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrg1
+{
+	map "brightmaps/sprites/hexen/mntrg1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrg2
+{
+	map "brightmaps/sprites/hexen/mntrg2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrg7
+{
+	map "brightmaps/sprites/hexen/mntrg7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrg8
+{
+	map "brightmaps/sprites/hexen/mntrg8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrh1
+{
+	map "brightmaps/sprites/hexen/mntrh1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrh2
+{
+	map "brightmaps/sprites/hexen/mntrh2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrh3
+{
+	map "brightmaps/sprites/hexen/mntrh3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrh7
+{
+	map "brightmaps/sprites/hexen/mntrh7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntri1
+{
+	map "brightmaps/sprites/hexen/mntri1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntri2
+{
+	map "brightmaps/sprites/hexen/mntri2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntri3
+{
+	map "brightmaps/sprites/hexen/mntri3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntri7
+{
+	map "brightmaps/sprites/hexen/mntri7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntri8
+{
+	map "brightmaps/sprites/hexen/mntri8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrj1
+{
+	map "brightmaps/sprites/hexen/mntrj1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrj2
+{
+	map "brightmaps/sprites/hexen/mntrj2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrj3
+{
+	map "brightmaps/sprites/hexen/mntrj3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrj7
+{
+	map "brightmaps/sprites/hexen/mntrj7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrk1
+{
+	map "brightmaps/sprites/hexen/mntrk1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrk2
+{
+	map "brightmaps/sprites/hexen/mntrk2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrk3
+{
+	map "brightmaps/sprites/hexen/mntrk3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mntrk8
+{
+	map "brightmaps/sprites/hexen/mntrk8.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== MENELIKR
+	
+brightmap sprite magef1
+{
+	map "brightmaps/sprites/hexen/magef1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite magef2
+{
+	map "brightmaps/sprites/hexen/magef2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite magef3
+{
+	map "brightmaps/sprites/hexen/magef3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite magef4
+{
+	map "brightmaps/sprites/hexen/magef4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite magef5
+{
+	map "brightmaps/sprites/hexen/magef5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite magef6
+{
+	map "brightmaps/sprites/hexen/magef6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite magef7
+{
+	map "brightmaps/sprites/hexen/magef7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite magef8
+{
+	map "brightmaps/sprites/hexen/magef8.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== PUZZLE ITEMS
+	
+brightmap sprite ask2a0
+{
+	map "brightmaps/sprites/hexen/ask2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite acwpa0
+{
+	map "brightmaps/sprites/hexen/acwpa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite amwpa0
+{
+	map "brightmaps/sprites/hexen/amwpa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite abgma0
+{
+	map "brightmaps/sprites/hexen/abgma0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite agmga0
+{
+	map "brightmaps/sprites/hexen/agmga0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite agmra0
+{
+	map "brightmaps/sprites/hexen/agmra0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite agb2a0
+{
+	map "brightmaps/sprites/hexen/agb2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite agg2a0
+{
+	map "brightmaps/sprites/hexen/agg2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite agmba0
+{
+	map "brightmaps/sprites/hexen/agmba0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite gmpdb0
+{
+	map "brightmaps/sprites/hexen/gmpdb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite afwpa0
+{
+	map "brightmaps/sprites/hexen/afwpa0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== REIVER
+	
+brightmap sprite wrtha1
+{
+	map "brightmaps/sprites/hexen/wrtha1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrtha2a8
+{
+	map "brightmaps/sprites/hexen/wrtha2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrtha3a7
+{
+	map "brightmaps/sprites/hexen/wrtha3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthb1
+{
+	map "brightmaps/sprites/hexen/wrthb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthb2b8
+{
+	map "brightmaps/sprites/hexen/wrthb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthb3b7
+{
+	map "brightmaps/sprites/hexen/wrthb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthc1
+{
+	map "brightmaps/sprites/hexen/wrthc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthc2c8
+{
+	map "brightmaps/sprites/hexen/wrthc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthc3c7
+{
+	map "brightmaps/sprites/hexen/wrthc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthd1
+{
+	map "brightmaps/sprites/hexen/wrthd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthd2d8
+{
+	map "brightmaps/sprites/hexen/wrthd2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthd3d7
+{
+	map "brightmaps/sprites/hexen/wrthd3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthe1
+{
+	map "brightmaps/sprites/hexen/wrthe1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthe2e8
+{
+	map "brightmaps/sprites/hexen/wrthe2e8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthe3e7
+{
+	map "brightmaps/sprites/hexen/wrthe3e7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthe4e6
+{
+	map "brightmaps/sprites/hexen/wrthe4e6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthe5
+{
+	map "brightmaps/sprites/hexen/wrthe5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthf1
+{
+	map "brightmaps/sprites/hexen/wrthf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthf2f8
+{
+	map "brightmaps/sprites/hexen/wrthf2f8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthf3f7
+{
+	map "brightmaps/sprites/hexen/wrthf3f7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthf4f6
+{
+	map "brightmaps/sprites/hexen/wrthf4f6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthf5
+{
+	map "brightmaps/sprites/hexen/wrthf5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthg1
+{
+	map "brightmaps/sprites/hexen/wrthg1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthg2g8
+{
+	map "brightmaps/sprites/hexen/wrthg2g8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthg3g7
+{
+	map "brightmaps/sprites/hexen/wrthg3g7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthg4g6
+{
+	map "brightmaps/sprites/hexen/wrthg4g6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthg5
+{
+	map "brightmaps/sprites/hexen/wrthg5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthh1
+{
+	map "brightmaps/sprites/hexen/wrthh1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthh2h8
+{
+	map "brightmaps/sprites/hexen/wrthh2h8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthi0
+{
+	map "brightmaps/sprites/hexen/wrthi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthj0
+{
+	map "brightmaps/sprites/hexen/wrthj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthk0
+{
+	map "brightmaps/sprites/hexen/wrthk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthl0
+{
+	map "brightmaps/sprites/hexen/wrthl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthm0
+{
+	map "brightmaps/sprites/hexen/wrthm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthn0
+{
+	map "brightmaps/sprites/hexen/wrthn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrtho0
+{
+	map "brightmaps/sprites/hexen/wrtho0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthp0
+{
+	map "brightmaps/sprites/hexen/wrthp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthq0
+{
+	map "brightmaps/sprites/hexen/wrthq0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wrthr0
+{
+	map "brightmaps/sprites/hexen/wrthr0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== STALKER
+	
+brightmap sprite ssptb0
+{
+	map "brightmaps/sprites/hexen/ssptb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptc0
+{
+	map "brightmaps/sprites/hexen/ssptc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptd0
+{
+	map "brightmaps/sprites/hexen/ssptd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sspti1
+{
+	map "brightmaps/sprites/hexen/sspti1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sspti2i8
+{
+	map "brightmaps/sprites/hexen/sspti2i8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sspti3i7
+{
+	map "brightmaps/sprites/hexen/sspti3i7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptj1
+{
+	map "brightmaps/sprites/hexen/ssptj1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptk2k8
+{
+	map "brightmaps/sprites/hexen/ssptk2k8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptk3k7
+{
+	map "brightmaps/sprites/hexen/ssptk3k7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssdva0
+{
+	map "brightmaps/sprites/hexen/ssdva0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssdvb0
+{
+	map "brightmaps/sprites/hexen/ssdvb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssdvc0
+{
+	map "brightmaps/sprites/hexen/ssdvc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssdvd0
+{
+	map "brightmaps/sprites/hexen/ssdvd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptk1
+{
+	map "brightmaps/sprites/hexen/ssptk1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptm1
+{
+	map "brightmaps/sprites/hexen/ssptm1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptm2m8
+{
+	map "brightmaps/sprites/hexen/ssptm2m8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptl1
+{
+	map "brightmaps/sprites/hexen/ssptl1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptl2l8
+{
+	map "brightmaps/sprites/hexen/ssptl2l8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptl3l7
+{
+	map "brightmaps/sprites/hexen/ssptl3l7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptl4l6
+{
+	map "brightmaps/sprites/hexen/ssptl4l6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptm3m7
+{
+	map "brightmaps/sprites/hexen/ssptm3m7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptm5
+{
+	map "brightmaps/sprites/hexen/ssptm5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptn1
+{
+	map "brightmaps/sprites/hexen/ssptn1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptn2n8
+{
+	map "brightmaps/sprites/hexen/ssptn2n8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptn3n7
+{
+	map "brightmaps/sprites/hexen/ssptn3n7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptn4n6
+{
+	map "brightmaps/sprites/hexen/ssptn4n6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptn5
+{
+	map "brightmaps/sprites/hexen/ssptn5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite sspto0
+{
+	map "brightmaps/sprites/hexen/sspto0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxda0
+{
+	map "brightmaps/sprites/hexen/ssxda0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxdi0
+{
+	map "brightmaps/sprites/hexen/ssxdi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxdj0
+{
+	map "brightmaps/sprites/hexen/ssxdj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptj2j8
+{
+	map "brightmaps/sprites/hexen/ssptj2j8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssptj3j7
+{
+	map "brightmaps/sprites/hexen/ssptj3j7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxdk0
+{
+	map "brightmaps/sprites/hexen/ssxdk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxdl0
+{
+	map "brightmaps/sprites/hexen/ssxdl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxdn0
+{
+	map "brightmaps/sprites/hexen/ssxdn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxdo0
+{
+	map "brightmaps/sprites/hexen/ssxdo0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxdp0
+{
+	map "brightmaps/sprites/hexen/ssxdp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssxds0
+{
+	map "brightmaps/sprites/hexen/ssxds0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxa1
+{
+	map "brightmaps/sprites/hexen/ssfxa1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxa2a8
+{
+	map "brightmaps/sprites/hexen/ssfxa2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxa3a7
+{
+	map "brightmaps/sprites/hexen/ssfxa3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxa4a6
+{
+	map "brightmaps/sprites/hexen/ssfxa4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxa5
+{
+	map "brightmaps/sprites/hexen/ssfxa5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxb1
+{
+	map "brightmaps/sprites/hexen/ssfxb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxb2b8
+{
+	map "brightmaps/sprites/hexen/ssfxb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxb3b7
+{
+	map "brightmaps/sprites/hexen/ssfxb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxb4b6
+{
+	map "brightmaps/sprites/hexen/ssfxb4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxb5
+{
+	map "brightmaps/sprites/hexen/ssfxb5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxc0
+{
+	map "brightmaps/sprites/hexen/ssfxc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxd0
+{
+	map "brightmaps/sprites/hexen/ssfxd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxe0
+{
+	map "brightmaps/sprites/hexen/ssfxe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxf0
+{
+	map "brightmaps/sprites/hexen/ssfxf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxg0
+{
+	map "brightmaps/sprites/hexen/ssfxg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite ssfxh0
+{
+	map "brightmaps/sprites/hexen/ssfxh0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== TELEPORT SMOKE
+	
+brightmap sprite tsmka0
+{
+	map "brightmaps/sprites/hexen/tsmka0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkb0
+{
+	map "brightmaps/sprites/hexen/tsmkb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkc0
+{
+	map "brightmaps/sprites/hexen/tsmkc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkd0
+{
+	map "brightmaps/sprites/hexen/tsmkd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmke0
+{
+	map "brightmaps/sprites/hexen/tsmke0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkf0
+{
+	map "brightmaps/sprites/hexen/tsmkf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkg0
+{
+	map "brightmaps/sprites/hexen/tsmkg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkh0
+{
+	map "brightmaps/sprites/hexen/tsmkh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmki0
+{
+	map "brightmaps/sprites/hexen/tsmki0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkj0
+{
+	map "brightmaps/sprites/hexen/tsmkj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkk0
+{
+	map "brightmaps/sprites/hexen/tsmkk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkl0
+{
+	map "brightmaps/sprites/hexen/tsmkl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkm0
+{
+	map "brightmaps/sprites/hexen/tsmkm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkn0
+{
+	map "brightmaps/sprites/hexen/tsmkn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmko0
+{
+	map "brightmaps/sprites/hexen/tsmko0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkp0
+{
+	map "brightmaps/sprites/hexen/tsmkp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkq0
+{
+	map "brightmaps/sprites/hexen/tsmkq0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkr0
+{
+	map "brightmaps/sprites/hexen/tsmkr0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmks0
+{
+	map "brightmaps/sprites/hexen/tsmks0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkt0
+{
+	map "brightmaps/sprites/hexen/tsmkt0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmku0
+{
+	map "brightmaps/sprites/hexen/tsmku0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkv0
+{
+	map "brightmaps/sprites/hexen/tsmkv0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkw0
+{
+	map "brightmaps/sprites/hexen/tsmkw0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkx0
+{
+	map "brightmaps/sprites/hexen/tsmkx0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmky0
+{
+	map "brightmaps/sprites/hexen/tsmky0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite tsmkz0
+{
+	map "brightmaps/sprites/hexen/tsmkz0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbl1a0
+{
+	map "brightmaps/sprites/hexen/fbl1a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbl1b0
+{
+	map "brightmaps/sprites/hexen/fbl1b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbl1c0
+{
+	map "brightmaps/sprites/hexen/fbl1c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fbl1d0
+{
+	map "brightmaps/sprites/hexen/fbl1d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnk1
+{
+	map "brightmaps/sprites/hexen/fdmnk1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnk5
+{
+	map "brightmaps/sprites/hexen/fdmnk5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnk6k4
+{
+	map "brightmaps/sprites/hexen/fdmnk6k4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnk7k3
+{
+	map "brightmaps/sprites/hexen/fdmnk7k3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fdmnk8k2
+{
+	map "brightmaps/sprites/hexen/fdmnk8k2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cflma0
+{
+	map "brightmaps/sprites/hexen/cflma0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cflmb0
+{
+	map "brightmaps/sprites/hexen/cflmb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cflmc0
+{
+	map "brightmaps/sprites/hexen/cflmc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cflmd0
+{
+	map "brightmaps/sprites/hexen/cflmd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cflme0
+{
+	map "brightmaps/sprites/hexen/cflme0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cflmf0
+{
+	map "brightmaps/sprites/hexen/cflmf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cflmg0
+{
+	map "brightmaps/sprites/hexen/cflmg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite chlyb0
+{
+	map "brightmaps/sprites/hexen/chlyb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite chlyc0
+{
+	map "brightmaps/sprites/hexen/chlyc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite chlyd0
+{
+	map "brightmaps/sprites/hexen/chlyd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite chlye0
+{
+	map "brightmaps/sprites/hexen/chlye0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite conea0
+{
+	map "brightmaps/sprites/hexen/conea0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite coneb0
+{
+	map "brightmaps/sprites/hexen/coneb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite conec0
+{
+	map "brightmaps/sprites/hexen/conec0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite coned0
+{
+	map "brightmaps/sprites/hexen/coned0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite conee0
+{
+	map "brightmaps/sprites/hexen/conee0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite conef0
+{
+	map "brightmaps/sprites/hexen/conef0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite coneg0
+{
+	map "brightmaps/sprites/hexen/coneg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cssfj0
+{
+	map "brightmaps/sprites/hexen/cssfj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cssfk0
+{
+	map "brightmaps/sprites/hexen/cssfk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxel0
+{
+	map "brightmaps/sprites/hexen/faxel0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxem0
+{
+	map "brightmaps/sprites/hexen/faxem0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxen0
+{
+	map "brightmaps/sprites/hexen/faxen0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxeo0
+{
+	map "brightmaps/sprites/hexen/faxeo0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxep0
+{
+	map "brightmaps/sprites/hexen/faxep0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxeq0
+{
+	map "brightmaps/sprites/hexen/faxeq0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsrda0
+{
+	map "brightmaps/sprites/hexen/fsrda0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsrdb0
+{
+	map "brightmaps/sprites/hexen/fsrdb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsrdc0
+{
+	map "brightmaps/sprites/hexen/fsrdc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsrde0
+{
+	map "brightmaps/sprites/hexen/fsrde0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsrdf0
+{
+	map "brightmaps/sprites/hexen/fsrdf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsrdg0
+{
+	map "brightmaps/sprites/hexen/fsrdg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsrdh0
+{
+	map "brightmaps/sprites/hexen/fsrdh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsrdi0
+{
+	map "brightmaps/sprites/hexen/fsrdi0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite mlnga0
+{
+	map "brightmaps/sprites/hexen/mlnga0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlngb0
+{
+	map "brightmaps/sprites/hexen/mlngb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlngc0
+{
+	map "brightmaps/sprites/hexen/mlngc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlngd0
+{
+	map "brightmaps/sprites/hexen/mlngd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlnge0
+{
+	map "brightmaps/sprites/hexen/mlnge0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlngf0
+{
+	map "brightmaps/sprites/hexen/mlngf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlngg0
+{
+	map "brightmaps/sprites/hexen/mlngg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlngh0
+{
+	map "brightmaps/sprites/hexen/mlngh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlngi0
+{
+	map "brightmaps/sprites/hexen/mlngi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfa0
+{
+	map "brightmaps/sprites/hexen/mstfa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfb0
+{
+	map "brightmaps/sprites/hexen/mstfb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfc0
+{
+	map "brightmaps/sprites/hexen/mstfc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfd0
+{
+	map "brightmaps/sprites/hexen/mstfd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfe0
+{
+	map "brightmaps/sprites/hexen/mstfe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstff0
+{
+	map "brightmaps/sprites/hexen/mstff0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfg0
+{
+	map "brightmaps/sprites/hexen/mstfg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfh0
+{
+	map "brightmaps/sprites/hexen/mstfh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfi0
+{
+	map "brightmaps/sprites/hexen/mstfi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mstfj0
+{
+	map "brightmaps/sprites/hexen/mstfj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mwndb0
+{
+	map "brightmaps/sprites/hexen/mwndb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxer0
+{
+	map "brightmaps/sprites/hexen/faxer0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxes0
+{
+	map "brightmaps/sprites/hexen/faxes0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxet0
+{
+	map "brightmaps/sprites/hexen/faxet0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxeu0
+{
+	map "brightmaps/sprites/hexen/faxeu0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxev0
+{
+	map "brightmaps/sprites/hexen/faxev0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxew0
+{
+	map "brightmaps/sprites/hexen/faxew0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite faxex0
+{
+	map "brightmaps/sprites/hexen/faxex0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cssfd0
+{
+	map "brightmaps/sprites/hexen/cssfd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cssfe0
+{
+	map "brightmaps/sprites/hexen/cssfe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cssff0
+{
+	map "brightmaps/sprites/hexen/cssff0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cssfg0
+{
+	map "brightmaps/sprites/hexen/cssfg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cssfh0
+{
+	map "brightmaps/sprites/hexen/cssfh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cssfi0
+{
+	map "brightmaps/sprites/hexen/cssfi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wfr1a0
+{
+	map "brightmaps/sprites/hexen/wfr1a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wfr2a0
+{
+	map "brightmaps/sprites/hexen/wfr2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wfr3a0
+{
+	map "brightmaps/sprites/hexen/wfr3a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfa0
+{
+	map "brightmaps/sprites/hexen/cfcfa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfb0
+{
+	map "brightmaps/sprites/hexen/cfcfb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfc0
+{
+	map "brightmaps/sprites/hexen/cfcfc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfd0
+{
+	map "brightmaps/sprites/hexen/cfcfd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfe0
+{
+	map "brightmaps/sprites/hexen/cfcfe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcff0
+{
+	map "brightmaps/sprites/hexen/cfcff0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfg0
+{
+	map "brightmaps/sprites/hexen/cfcfg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfh0
+{
+	map "brightmaps/sprites/hexen/cfcfh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfi0
+{
+	map "brightmaps/sprites/hexen/cfcfi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfj0
+{
+	map "brightmaps/sprites/hexen/cfcfj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfk0
+{
+	map "brightmaps/sprites/hexen/cfcfk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfl0
+{
+	map "brightmaps/sprites/hexen/cfcfl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfm0
+{
+	map "brightmaps/sprites/hexen/cfcfm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfn0
+{
+	map "brightmaps/sprites/hexen/cfcfn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfo0
+{
+	map "brightmaps/sprites/hexen/cfcfo0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfp0
+{
+	map "brightmaps/sprites/hexen/cfcfp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfq0
+{
+	map "brightmaps/sprites/hexen/cfcfq0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfr0
+{
+	map "brightmaps/sprites/hexen/cfcfr0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfs0
+{
+	map "brightmaps/sprites/hexen/cfcfs0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcft0
+{
+	map "brightmaps/sprites/hexen/cfcft0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfu0
+{
+	map "brightmaps/sprites/hexen/cfcfu0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfv0
+{
+	map "brightmaps/sprites/hexen/cfcfv0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfw0
+{
+	map "brightmaps/sprites/hexen/cfcfw0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfx0
+{
+	map "brightmaps/sprites/hexen/cfcfx0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfy0
+{
+	map "brightmaps/sprites/hexen/cfcfy0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cfcfz0
+{
+	map "brightmaps/sprites/hexen/cfcfz0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxa0
+{
+	map "brightmaps/sprites/hexen/cffxa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxb0
+{
+	map "brightmaps/sprites/hexen/cffxb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxc0
+{
+	map "brightmaps/sprites/hexen/cffxc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxd0
+{
+	map "brightmaps/sprites/hexen/cffxd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxe0
+{
+	map "brightmaps/sprites/hexen/cffxe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxf0
+{
+	map "brightmaps/sprites/hexen/cffxf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxg0
+{
+	map "brightmaps/sprites/hexen/cffxg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxh0
+{
+	map "brightmaps/sprites/hexen/cffxh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxi0
+{
+	map "brightmaps/sprites/hexen/cffxi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxj0
+{
+	map "brightmaps/sprites/hexen/cffxj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxk0
+{
+	map "brightmaps/sprites/hexen/cffxk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxl0
+{
+	map "brightmaps/sprites/hexen/cffxl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxm0
+{
+	map "brightmaps/sprites/hexen/cffxm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxn1
+{
+	map "brightmaps/sprites/hexen/cffxn1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxn2n8
+{
+	map "brightmaps/sprites/hexen/cffxn2n8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxn3n7
+{
+	map "brightmaps/sprites/hexen/cffxn3n7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxn4n6
+{
+	map "brightmaps/sprites/hexen/cffxn4n6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxn5
+{
+	map "brightmaps/sprites/hexen/cffxn5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxo1
+{
+	map "brightmaps/sprites/hexen/cffxo1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxo2o8
+{
+	map "brightmaps/sprites/hexen/cffxo2o8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxo3o7
+{
+	map "brightmaps/sprites/hexen/cffxo3o7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxo4o6
+{
+	map "brightmaps/sprites/hexen/cffxo4o6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxo5
+{
+	map "brightmaps/sprites/hexen/cffxo5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxp1
+{
+	map "brightmaps/sprites/hexen/cffxp1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxp2p8
+{
+	map "brightmaps/sprites/hexen/cffxp2p8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxp3p7
+{
+	map "brightmaps/sprites/hexen/cffxp3p7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxp4p6
+{
+	map "brightmaps/sprites/hexen/cffxp4p6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite cffxp5
+{
+	map "brightmaps/sprites/hexen/cffxp5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wms1a0
+{
+	map "brightmaps/sprites/hexen/wms1a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wms2a0
+{
+	map "brightmaps/sprites/hexen/wms2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wms3a0
+{
+	map "brightmaps/sprites/hexen/wms3a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wch1a0
+{
+	map "brightmaps/sprites/hexen/wch1a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wch2a0
+{
+	map "brightmaps/sprites/hexen/wch2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wch3a0
+{
+	map "brightmaps/sprites/hexen/wch3a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mwndc0
+{
+	map "brightmaps/sprites/hexen/mwndc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mwnd0
+{
+	map "brightmaps/sprites/hexen/mwndd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mwnde0
+{
+	map "brightmaps/sprites/hexen/mwnde0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mwndf0
+{
+	map "brightmaps/sprites/hexen/mwndf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mwndg0
+{
+	map "brightmaps/sprites/hexen/mwndg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mwndh0
+{
+	map "brightmaps/sprites/hexen/mwndh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mwndi0
+{
+	map "brightmaps/sprites/hexen/mwndi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2a0
+{
+	map "brightmaps/sprites/hexen/mlf2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2b0
+{
+	map "brightmaps/sprites/hexen/mlf2b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2c0
+{
+	map "brightmaps/sprites/hexen/mlf2c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2d0
+{
+	map "brightmaps/sprites/hexen/mlf2d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2e0
+{
+	map "brightmaps/sprites/hexen/mlf2e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2f0
+{
+	map "brightmaps/sprites/hexen/mlf2f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2g0
+{
+	map "brightmaps/sprites/hexen/mlf2g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2h0
+{
+	map "brightmaps/sprites/hexen/mlf2h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2i0
+{
+	map "brightmaps/sprites/hexen/mlf2i0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2j0
+{
+	map "brightmaps/sprites/hexen/mlf2j0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2k0
+{
+	map "brightmaps/sprites/hexen/mlf2k0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2l0
+{
+	map "brightmaps/sprites/hexen/mlf2l0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2m0
+{
+	map "brightmaps/sprites/hexen/mlf2m0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2n0
+{
+	map "brightmaps/sprites/hexen/mlf2n0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2o0
+{
+	map "brightmaps/sprites/hexen/mlf2o0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2p0
+{
+	map "brightmaps/sprites/hexen/mlf2p0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlf2q0
+{
+	map "brightmaps/sprites/hexen/mlf2q0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxb0
+{
+	map "brightmaps/sprites/hexen/mlfxb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxc0
+{
+	map "brightmaps/sprites/hexen/mlfxc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxd0
+{
+	map "brightmaps/sprites/hexen/mlfxd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxe0
+{
+	map "brightmaps/sprites/hexen/mlfxe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxf0
+{
+	map "brightmaps/sprites/hexen/mlfxf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxg0
+{
+	map "brightmaps/sprites/hexen/mlfxg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxh0
+{
+	map "brightmaps/sprites/hexen/mlfxh0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite mlfxi0
+{
+	map "brightmaps/sprites/hexen/mlfxi0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite mlfxj0
+{
+	map "brightmaps/sprites/hexen/mlfxj0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite mlfxk0
+{
+	map "brightmaps/sprites/hexen/mlfxk0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite mlfxl0
+{
+	map "brightmaps/sprites/hexen/mlfxl0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite mlfxm0
+{
+	map "brightmaps/sprites/hexen/mlfxm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxn0
+{
+	map "brightmaps/sprites/hexen/mlfxn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxo0
+{
+	map "brightmaps/sprites/hexen/mlfxo0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxp0
+{
+	map "brightmaps/sprites/hexen/mlfxp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxq0
+{
+	map "brightmaps/sprites/hexen/mlfxq0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxr0
+{
+	map "brightmaps/sprites/hexen/mlfxr0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxs0
+{
+	map "brightmaps/sprites/hexen/mlfxs0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxt0
+{
+	map "brightmaps/sprites/hexen/mlfxt0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite mlfxu0
+{
+	map "brightmaps/sprites/hexen/mlfxu0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1a0
+{
+	map "brightmaps/sprites/hexen/msp1a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1b0
+{
+	map "brightmaps/sprites/hexen/msp1b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1c0
+{
+	map "brightmaps/sprites/hexen/msp1c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1d0
+{
+	map "brightmaps/sprites/hexen/msp1d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1e0
+{
+	map "brightmaps/sprites/hexen/msp1e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1f0
+{
+	map "brightmaps/sprites/hexen/msp1f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1g0
+{
+	map "brightmaps/sprites/hexen/msp1g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1h0
+{
+	map "brightmaps/sprites/hexen/msp1h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1i0
+{
+	map "brightmaps/sprites/hexen/msp1i0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1j0
+{
+	map "brightmaps/sprites/hexen/msp1j0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1k0
+{
+	map "brightmaps/sprites/hexen/msp1k0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1l0
+{
+	map "brightmaps/sprites/hexen/msp1l0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1m0
+{
+	map "brightmaps/sprites/hexen/msp1m0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1n0
+{
+	map "brightmaps/sprites/hexen/msp1n0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1o0
+{
+	map "brightmaps/sprites/hexen/msp1o0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp1p0
+{
+	map "brightmaps/sprites/hexen/msp1p0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2a0
+{
+	map "brightmaps/sprites/hexen/msp2a0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2b0
+{
+	map "brightmaps/sprites/hexen/msp2b0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2c0
+{
+	map "brightmaps/sprites/hexen/msp2c0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2d0
+{
+	map "brightmaps/sprites/hexen/msp2d0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2e0
+{
+	map "brightmaps/sprites/hexen/msp2e0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2f0
+{
+	map "brightmaps/sprites/hexen/msp2f0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2g0
+{
+	map "brightmaps/sprites/hexen/msp2g0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2h0
+{
+	map "brightmaps/sprites/hexen/msp2h0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite msp2i0
+{
+	map "brightmaps/sprites/hexen/msp2i0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shexa0
+{
+	map "brightmaps/sprites/hexen/shexa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shexb0
+{
+	map "brightmaps/sprites/hexen/shexb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shexc0
+{
+	map "brightmaps/sprites/hexen/shexc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shexd0
+{
+	map "brightmaps/sprites/hexen/shexd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shexe0
+{
+	map "brightmaps/sprites/hexen/shexe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrda1
+{
+	map "brightmaps/sprites/hexen/shrda1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrda2a8
+{
+	map "brightmaps/sprites/hexen/shrda2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrda3a7
+{
+	map "brightmaps/sprites/hexen/shrda3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrda4a6
+{
+	map "brightmaps/sprites/hexen/shrda4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrda5
+{
+	map "brightmaps/sprites/hexen/shrda5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdb1
+{
+	map "brightmaps/sprites/hexen/shrdb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdb2b8
+{
+	map "brightmaps/sprites/hexen/shrdb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdb3b7
+{
+	map "brightmaps/sprites/hexen/shrdb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdb4b6
+{
+	map "brightmaps/sprites/hexen/shrdb4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdb5
+{
+	map "brightmaps/sprites/hexen/shrdb5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdc1
+{
+	map "brightmaps/sprites/hexen/shrdc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdc2c8
+{
+	map "brightmaps/sprites/hexen/shrdc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdc3c7
+{
+	map "brightmaps/sprites/hexen/shrdc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdc4c6
+{
+	map "brightmaps/sprites/hexen/shrdc4c6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite shrdc5
+{
+	map "brightmaps/sprites/hexen/shrdc5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxa1
+{
+	map "brightmaps/sprites/hexen/fhfxa1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxa5
+{
+	map "brightmaps/sprites/hexen/fhfxa5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxa6a4
+{
+	map "brightmaps/sprites/hexen/fhfxa6a4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxa7a3
+{
+	map "brightmaps/sprites/hexen/fhfxa7a3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxa8a2
+{
+	map "brightmaps/sprites/hexen/fhfxa8a2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxb1
+{
+	map "brightmaps/sprites/hexen/fhfxb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxb5
+{
+	map "brightmaps/sprites/hexen/fhfxb5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxb6b4
+{
+	map "brightmaps/sprites/hexen/fhfxb6b4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxb7b3
+{
+	map "brightmaps/sprites/hexen/fhfxb7b3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxb8b2
+{
+	map "brightmaps/sprites/hexen/fhfxb8b2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxc1
+{
+	map "brightmaps/sprites/hexen/fhfxc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxc5
+{
+	map "brightmaps/sprites/hexen/fhfxc5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxc6c4
+{
+	map "brightmaps/sprites/hexen/fhfxc6c4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxc7c3
+{
+	map "brightmaps/sprites/hexen/fhfxc7c3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxc8c2
+{
+	map "brightmaps/sprites/hexen/fhfxc8c2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxd1
+{
+	map "brightmaps/sprites/hexen/fhfxd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxd5
+{
+	map "brightmaps/sprites/hexen/fhfxd5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxd6d4
+{
+	map "brightmaps/sprites/hexen/fhfxd6d4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmcsa0
+{
+	map "brightmaps/sprites/hexen/wmcsa0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmcsb0
+{
+	map "brightmaps/sprites/hexen/wmcsb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmcsc0
+{
+	map "brightmaps/sprites/hexen/wmcsc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxa1
+{
+	map "brightmaps/sprites/hexen/fsfxa1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxa2a8
+{
+	map "brightmaps/sprites/hexen/fsfxa2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxa3a7
+{
+	map "brightmaps/sprites/hexen/fsfxa3a7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxa4a6
+{
+	map "brightmaps/sprites/hexen/fsfxa4a6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxa5
+{
+	map "brightmaps/sprites/hexen/fsfxa5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxb1
+{
+	map "brightmaps/sprites/hexen/fsfxb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxb2b8
+{
+	map "brightmaps/sprites/hexen/fsfxb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxb3b7
+{
+	map "brightmaps/sprites/hexen/fsfxb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxb4b6
+{
+	map "brightmaps/sprites/hexen/fsfxb4b6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxb5
+{
+	map "brightmaps/sprites/hexen/fsfxb5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxc1
+{
+	map "brightmaps/sprites/hexen/fsfxc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxc2c8
+{
+	map "brightmaps/sprites/hexen/fsfxc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxc3c7
+{
+	map "brightmaps/sprites/hexen/fsfxc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxc4c6
+{
+	map "brightmaps/sprites/hexen/fsfxc4c6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxc5
+{
+	map "brightmaps/sprites/hexen/fsfxc5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxd0
+{
+	map "brightmaps/sprites/hexen/fsfxd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxe0
+{
+	map "brightmaps/sprites/hexen/fsfxe0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxf0
+{
+	map "brightmaps/sprites/hexen/fsfxf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxg0
+{
+	map "brightmaps/sprites/hexen/fsfxg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxh0
+{
+	map "brightmaps/sprites/hexen/fsfxh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxi0
+{
+	map "brightmaps/sprites/hexen/fsfxi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxj0
+{
+	map "brightmaps/sprites/hexen/fsfxj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxk0
+{
+	map "brightmaps/sprites/hexen/fsfxk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxl0
+{
+	map "brightmaps/sprites/hexen/fsfxl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxm0
+{
+	map "brightmaps/sprites/hexen/fsfxm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxn0
+{
+	map "brightmaps/sprites/hexen/fsfxn0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite fsfxo0
+{
+	map "brightmaps/sprites/hexen/fsfxo0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite fsfxp0
+{
+	map "brightmaps/sprites/hexen/fsfxp0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite fsfxq0
+{
+	map "brightmaps/sprites/hexen/fsfxq0.png"
+	iwad
+  disablefullbright
+}
+
+
+brightmap sprite fsfxr0
+{
+	map "brightmaps/sprites/hexen/fsfxr0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxs0
+{
+	map "brightmaps/sprites/hexen/fsfxs0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxt0
+{
+	map "brightmaps/sprites/hexen/fsfxt0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxu0
+{
+	map "brightmaps/sprites/hexen/fsfxu0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxv0
+{
+	map "brightmaps/sprites/hexen/fsfxv0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fsfxw0
+{
+	map "brightmaps/sprites/hexen/fsfxw0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmlga0
+{
+	map "brightmaps/sprites/hexen/wmlga0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmlgb0
+{
+	map "brightmaps/sprites/hexen/wmlgb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmlgc0
+{
+	map "brightmaps/sprites/hexen/wmlgc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmlgd0
+{
+	map "brightmaps/sprites/hexen/wmlgd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmlge0
+{
+	map "brightmaps/sprites/hexen/wmlge0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmlgf0
+{
+	map "brightmaps/sprites/hexen/wmlgf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmlgg0
+{
+	map "brightmaps/sprites/hexen/wmlgg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wmlgh0
+{
+	map "brightmaps/sprites/hexen/wmlgh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wcfma0
+{
+	map "brightmaps/sprites/hexen/wcfma0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wcfmb0
+{
+	map "brightmaps/sprites/hexen/wcfmb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wcfmc0
+{
+	map "brightmaps/sprites/hexen/wcfmc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wcfmd0
+{
+	map "brightmaps/sprites/hexen/wcfmd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wcfme0
+{
+	map "brightmaps/sprites/hexen/wcfme0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wcfmf0
+{
+	map "brightmaps/sprites/hexen/wcfmf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wcfmg0
+{
+	map "brightmaps/sprites/hexen/wcfmg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite wcfmh0
+{
+	map "brightmaps/sprites/hexen/wcfmh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxd7d3
+{
+	map "brightmaps/sprites/hexen/fhfxd7d3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxd8d2
+{
+	map "brightmaps/sprites/hexen/fhfxd8d2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxe1
+{
+	map "brightmaps/sprites/hexen/fhfxe1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxe5
+{
+	map "brightmaps/sprites/hexen/fhfxe5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxe6e4
+{
+	map "brightmaps/sprites/hexen/fhfxe6e4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxe7e3
+{
+	map "brightmaps/sprites/hexen/fhfxe7e3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxe8e2
+{
+	map "brightmaps/sprites/hexen/fhfxe8e2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxf1
+{
+	map "brightmaps/sprites/hexen/fhfxf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxf5
+{
+	map "brightmaps/sprites/hexen/fhfxf5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxf6f4
+{
+	map "brightmaps/sprites/hexen/fhfxf6f4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxf7f3
+{
+	map "brightmaps/sprites/hexen/fhfxf7f3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxf8f2
+{
+	map "brightmaps/sprites/hexen/fhfxf8f2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxg1
+{
+	map "brightmaps/sprites/hexen/fhfxg1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxg5
+{
+	map "brightmaps/sprites/hexen/fhfxg5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxg6g4
+{
+	map "brightmaps/sprites/hexen/fhfxg6g4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxg7g3
+{
+	map "brightmaps/sprites/hexen/fhfxg7g3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxg8g2
+{
+	map "brightmaps/sprites/hexen/fhfxg8g2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxh1
+{
+	map "brightmaps/sprites/hexen/fhfxh1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxh5
+{
+	map "brightmaps/sprites/hexen/fhfxh5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxh6h4
+{
+	map "brightmaps/sprites/hexen/fhfxh6h4.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxh7h3
+{
+	map "brightmaps/sprites/hexen/fhfxh7h3.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxh8h2
+{
+	map "brightmaps/sprites/hexen/fhfxh8h2.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxi0
+{
+	map "brightmaps/sprites/hexen/fhfxi0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxj0
+{
+	map "brightmaps/sprites/hexen/fhfxj0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxk0
+{
+	map "brightmaps/sprites/hexen/fhfxk0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxl0
+{
+	map "brightmaps/sprites/hexen/fhfxl0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxm0
+{
+	map "brightmaps/sprites/hexen/fhfxm0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxn0
+{
+	map "brightmaps/sprites/hexen/fhfxn0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxo0
+{
+	map "brightmaps/sprites/hexen/fhfxo0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxp0
+{
+	map "brightmaps/sprites/hexen/fhfxp0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxjq0
+{
+	map "brightmaps/sprites/hexen/fhfxq0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite fhfxr0
+{
+	map "brightmaps/sprites/hexen/fhfxr0.png"
+	iwad
+  disablefullbright
+}
+
+
+// ========================================== WENDIGO
+	
+brightmap sprite iceya1
+{
+	map "brightmaps/sprites/hexen/iceya1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceya2a8
+{
+	map "brightmaps/sprites/hexen/iceya2a8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyb1
+{
+	map "brightmaps/sprites/hexen/iceyb1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyb2b8
+{
+	map "brightmaps/sprites/hexen/iceyb2b8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyb3b7
+{
+	map "brightmaps/sprites/hexen/iceyb3b7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyc1
+{
+	map "brightmaps/sprites/hexen/iceyc1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyc2c8
+{
+	map "brightmaps/sprites/hexen/iceyc2c8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyc3c7
+{
+	map "brightmaps/sprites/hexen/iceyc3c7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyd1
+{
+	map "brightmaps/sprites/hexen/iceyd1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyd2d8
+{
+	map "brightmaps/sprites/hexen/iceyd2d8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyd3d7
+{
+	map "brightmaps/sprites/hexen/iceyd3d7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceye1
+{
+	map "brightmaps/sprites/hexen/iceye1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceye2e8
+{
+	map "brightmaps/sprites/hexen/iceye2e8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceye3e7
+{
+	map "brightmaps/sprites/hexen/iceye3e7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyf1
+{
+	map "brightmaps/sprites/hexen/iceyf1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyf2f8
+{
+	map "brightmaps/sprites/hexen/iceyf2f8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyf3f7
+{
+	map "brightmaps/sprites/hexen/iceyf3f7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyg1
+{
+	map "brightmaps/sprites/hexen/iceyg1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyg2g8
+{
+	map "brightmaps/sprites/hexen/iceyg2g8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyg3g7
+{
+	map "brightmaps/sprites/hexen/iceyg3g7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyg4g6
+{
+	map "brightmaps/sprites/hexen/iceyg4g6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite iceyg5
+{
+	map "brightmaps/sprites/hexen/iceyg5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprd0
+{
+	map "brightmaps/sprites/hexen/icprd0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icpre0
+{
+	map "brightmaps/sprites/hexen/icpre0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprf0
+{
+	map "brightmaps/sprites/hexen/icprf0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprg0
+{
+	map "brightmaps/sprites/hexen/icprg0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprh0
+{
+	map "brightmaps/sprites/hexen/icprh0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icpra0
+{
+	map "brightmaps/sprites/hexen/icpra0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprb0
+{
+	map "brightmaps/sprites/hexen/icprb0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprc0
+{
+	map "brightmaps/sprites/hexen/icprc0.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprn1
+{
+	map "brightmaps/sprites/hexen/icprn1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprn2n8
+{
+	map "brightmaps/sprites/hexen/icprn2n8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprn3n7
+{
+	map "brightmaps/sprites/hexen/icprn3n7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprn4n6
+{
+	map "brightmaps/sprites/hexen/icprn4n6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icpro1
+{
+	map "brightmaps/sprites/hexen/icpro1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icpro2o8
+{
+	map "brightmaps/sprites/hexen/icpro2o8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icpro3o7
+{
+	map "brightmaps/sprites/hexen/icpro3o7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icpro4o6
+{
+	map "brightmaps/sprites/hexen/icpro4o6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icpro5
+{
+	map "brightmaps/sprites/hexen/icpro5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprp1
+{
+	map "brightmaps/sprites/hexen/icprp1.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprp2p8
+{
+	map "brightmaps/sprites/hexen/icprp2p8.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprp3p7
+{
+	map "brightmaps/sprites/hexen/icprp3p7.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprp4p6
+{
+	map "brightmaps/sprites/hexen/icprp4p6.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprp5
+{
+	map "brightmaps/sprites/hexen/icprp5.png"
+	iwad
+  disablefullbright
+}
+
+brightmap sprite icprq0
+{
+	map "brightmaps/sprites/hexen/icprq0.png"
+	iwad
+  disablefullbright
+}

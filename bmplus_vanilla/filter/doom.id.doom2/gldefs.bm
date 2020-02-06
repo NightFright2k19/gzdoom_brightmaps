@@ -1,0 +1,3 @@
+// Brightmaps for vanilla sprites
+#include brightmaps/sprites/doom.bm
+#include brightmaps/sprites/doom2.bm

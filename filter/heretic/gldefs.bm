@@ -1,8 +1,0 @@
-// Brightmaps for vanilla sprites (don't use with spritefixes)
-// #include brightmaps/sprites/heretic.bm
-
-// Brightmaps for Revenant100's spritefixes (don't use with vanilla sprites)
-#include brightmaps/sprites/heretic_spritefixes.bm
-
-// Brightmaps for textures
-#include brightmaps/textures/heretic.bm

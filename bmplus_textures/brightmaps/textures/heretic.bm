@@ -1,0 +1,41 @@
+
+// ===================================================================================== FLATS
+
+brightmap flat flathuh1    { map "brightmaps/textures/heretic/flats/flathuh1.png" iwad }
+brightmap flat flathuh2    { map "brightmaps/textures/heretic/flats/flathuh2.png" iwad }
+brightmap flat flathuh3    { map "brightmaps/textures/heretic/flats/flathuh3.png" iwad }
+brightmap flat flathuh4    { map "brightmaps/textures/heretic/flats/flathuh2.png" iwad }
+
+brightmap flat floor21     { map "brightmaps/textures/heretic/flats/floor21.png" iwad }
+brightmap flat floor22     { map "brightmaps/textures/heretic/flats/floor22.png" iwad }
+brightmap flat floor23     { map "brightmaps/textures/heretic/flats/floor23.png" iwad }
+brightmap flat floor24     { map "brightmaps/textures/heretic/flats/floor24.png" iwad }
+brightmap flat floor26     { map "brightmaps/textures/heretic/flats/floor26.png" iwad }
+
+brightmap flat fltlava1    { map "brightmaps/textures/heretic/flats/fltlava1.png"}
+brightmap flat fltlava2    { map "brightmaps/textures/heretic/flats/fltlava1.png" }
+brightmap flat fltlava3    { map "brightmaps/textures/heretic/flats/fltlava1.png" }
+brightmap flat fltlava4    { map "brightmaps/textures/heretic/flats/fltlava1.png" }
+
+brightmap flat flttele1    { map "brightmaps/textures/heretic/flats/flttele1.png" iwad }
+brightmap flat flttele2    { map "brightmaps/textures/heretic/flats/flttele2.png" iwad }
+brightmap flat flttele3    { map "brightmaps/textures/heretic/flats/flttele3.png" iwad }
+brightmap flat flttele4    { map "brightmaps/textures/heretic/flats/flttele2.png" iwad }
+
+
+// ===================================================================================== TEXTURES
+
+brightmap texture doorexit { map "brightmaps/textures/heretic/doorexit.png" iwad }
+
+brightmap texture lavafl1  { map "brightmaps/textures/heretic/lavafl1.png" iwad }
+brightmap texture lavafl2  { map "brightmaps/textures/heretic/lavafl2.png" iwad }
+brightmap texture lavafl3  { map "brightmaps/textures/heretic/lavafl3.png" iwad }
+
+brightmap texture stngls1  { map "brightmaps/textures/heretic/stngls1.png" iwad }
+brightmap texture stngls2  { map "brightmaps/textures/heretic/stngls2.png" iwad }
+brightmap texture stngls3  { map "brightmaps/textures/heretic/stngls3.png" iwad }
+
+brightmap texture sw1on    { map "brightmaps/textures/heretic/sw1on.png" iwad }
+
+brightmap texture sw2off   { map "brightmaps/textures/heretic/sw2off.png" iwad }
+brightmap texture sw2on    { map "brightmaps/textures/heretic/sw2on.png" iwad }

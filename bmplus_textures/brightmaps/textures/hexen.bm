@@ -1,0 +1,45 @@
+
+// ===================================================================================== FLATS
+
+brightmap flat x_001      { map "brightmaps/textures/hexen/flats/x_001.png" iwad }
+brightmap flat x_002      { map "brightmaps/textures/hexen/flats/x_002.png" iwad }
+brightmap flat x_003      { map "brightmaps/textures/hexen/flats/x_003.png" iwad }
+brightmap flat x_004      { map "brightmaps/textures/hexen/flats/x_004.png" iwad }
+
+// ===================================================================================== TEXTURES
+
+brightmap texture monk18  { map "brightmaps/textures/hexen/monk18.png" iwad }
+brightmap texture monk22  { map "brightmaps/textures/hexen/monk22.png" iwad }
+
+brightmap texture planet1  { map "brightmaps/textures/hexen/planet1.png" iwad }
+brightmap texture planet2  { map "brightmaps/textures/hexen/planet2.png" iwad }
+
+brightmap texture spawn03  { map "brightmaps/textures/hexen/spawn03.png" iwad }
+brightmap texture spawn09  { map "brightmaps/textures/hexen/spawn09.png" iwad }
+brightmap texture spawn10  { map "brightmaps/textures/hexen/spawn10.png" iwad }
+brightmap texture spawn12  { map "brightmaps/textures/hexen/spawn12.png" iwad }
+
+brightmap texture sw51_on  { map "brightmaps/textures/hexen/sw51_on.png" iwad }
+
+brightmap texture sw52_on  { map "brightmaps/textures/hexen/sw52_on.png" iwad }
+
+brightmap texture sw_1_dn  { map "brightmaps/textures/hexen/sw_1_dn.png" iwad }
+brightmap texture sw_1_md  { map "brightmaps/textures/hexen/sw_1_md.png" iwad }
+
+brightmap texture sw_2_dn  { map "brightmaps/textures/hexen/sw_2_dn.png" iwad }
+brightmap texture sw_2_md  { map "brightmaps/textures/hexen/sw_2_md.png" iwad }
+
+brightmap texture tport1   { map "brightmaps/textures/hexen/tport1.png" iwad }
+brightmap texture tport2   { map "brightmaps/textures/hexen/tport2.png" iwad }
+brightmap texture tport3   { map "brightmaps/textures/hexen/tport3.png" iwad }
+brightmap texture tport4   { map "brightmaps/textures/hexen/tport4.png" iwad }
+brightmap texture tport5   { map "brightmaps/textures/hexen/tport5.png" iwad }
+brightmap texture tport6   { map "brightmaps/textures/hexen/tport6.png" iwad }
+brightmap texture tport7   { map "brightmaps/textures/hexen/tport7.png" iwad }
+brightmap texture tport8   { map "brightmaps/textures/hexen/tport8.png" iwad }
+brightmap texture tport9   { map "brightmaps/textures/hexen/tport9.png" iwad }
+
+brightmap texture x_fire01 { map "brightmaps/textures/hexen/x_fire01.png" iwad }
+brightmap texture x_fire02 { map "brightmaps/textures/hexen/x_fire02.png" iwad }
+brightmap texture x_fire03 { map "brightmaps/textures/hexen/x_fire03.png" iwad }
+brightmap texture x_fire04 { map "brightmaps/textures/hexen/x_fire04.png" iwad }
