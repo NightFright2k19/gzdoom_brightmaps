@@ -12,10 +12,10 @@ brightmap flat floor23     { map "brightmaps/textures/heretic/flats/floor23.png"
 brightmap flat floor24     { map "brightmaps/textures/heretic/flats/floor24.png" iwad }
 brightmap flat floor26     { map "brightmaps/textures/heretic/flats/floor26.png" iwad }
 
-brightmap flat fltlava1    { map "brightmaps/textures/heretic/flats/fltlava1.png"}
-brightmap flat fltlava2    { map "brightmaps/textures/heretic/flats/fltlava1.png" }
-brightmap flat fltlava3    { map "brightmaps/textures/heretic/flats/fltlava1.png" }
-brightmap flat fltlava4    { map "brightmaps/textures/heretic/flats/fltlava1.png" }
+brightmap flat fltlava1    { map "brightmaps/textures/heretic/flats/fltlava1.png" iwad }
+brightmap flat fltlava2    { map "brightmaps/textures/heretic/flats/fltlava1.png" iwad }
+brightmap flat fltlava3    { map "brightmaps/textures/heretic/flats/fltlava1.png" iwad }
+brightmap flat fltlava4    { map "brightmaps/textures/heretic/flats/fltlava1.png" iwad }
 
 brightmap flat flttele1    { map "brightmaps/textures/heretic/flats/flttele1.png" iwad }
 brightmap flat flttele2    { map "brightmaps/textures/heretic/flats/flttele2.png" iwad }
