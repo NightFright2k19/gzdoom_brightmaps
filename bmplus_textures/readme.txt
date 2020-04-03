@@ -1,9 +1,9 @@
 ==================================================================================
 Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
-Title                   : Brightmaps Collection for GZDoom v1.7
+Title                   : Brightmaps Collection for GZDoom v1.71
 Filenames               : bmplus_textures.pk3
-Release date            : 02/06/2020
+Release date            : 03/04/2020
 Author                  : NightFright
 
 Description             : Textures brightmaps for Doom, Doom II, Final Doom,
@@ -54,6 +54,10 @@ Tested With             : GZDoom
 
 
 * Changelog *
+
+Version 1.71 (Apr 3, 2020)
+--------------------------
+[HERETIC] Added "iwad" flag for lava brightmaps
 
 Version 1.7 (Feb 6, 2020)
 -------------------------
