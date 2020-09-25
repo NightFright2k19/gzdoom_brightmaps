@@ -1,9 +1,9 @@
 ==================================================================================
 Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
-Title                   : Brightmaps Collection for GZDoom v1.71
+Title                   : Brightmaps Collection for GZDoom v1.72
 Filenames               : bmplus_textures.pk3
-Release date            : 03/04/2020
+Release date            : 09/25/2020
 Author                  : NightFright
 
 Description             : Textures brightmaps for Doom, Doom II, Final Doom,
@@ -54,6 +54,10 @@ Tested With             : GZDoom
 
 
 * Changelog *
+
+Version 1.72 (Sep 25, 2020)
+---------------------------
+[DOOM] Wrong brightmap for SW1STARG removed
 
 Version 1.71 (Apr 3, 2020)
 --------------------------

@@ -135,7 +135,6 @@ brightmap texture sw1blue  { map "brightmaps/textures/doom/sw1blue.png" iwad }
 brightmap texture sw1brcom { map "brightmaps/textures/doom/sw1brcom.png" iwad }
 brightmap texture sw1comm  { map "brightmaps/textures/doom/sw1comm.png" iwad }
 brightmap texture sw1dirt  { map "brightmaps/textures/doom/sw1dirt.png" iwad }
-brightmap texture sw1starg { map "brightmaps/textures/doom/sw1brcom.png" iwad }
 brightmap texture sw1ston1 { map "brightmaps/textures/doom/sw1ston1.png" iwad }
 brightmap texture sw1stone { map "brightmaps/textures/doom/sw1strtn.png" iwad }
 brightmap texture sw1strtn { map "brightmaps/textures/doom/sw1strtn.png" iwad }
