@@ -1,2 +1,5 @@
 // Brightmaps for vanilla sprites (don't use with spritefixes)
 #include brightmaps/sprites/heretic.bm
+
+// Brightmaps for Nash's widescreen sprites
+#include brightmaps/sprites/heretic_wide.bm

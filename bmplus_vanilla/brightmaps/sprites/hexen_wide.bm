@@ -1,0 +1,65 @@
+brightmap sprite cflme0
+{
+	map "brightmaps/sprites/hexen/wide/cflme0.png"
+  	disablefullbright
+}
+
+brightmap sprite cflmf0
+{
+	map "brightmaps/sprites/hexen/wide/cflmf0.png"
+  	disablefullbright
+}
+
+brightmap sprite faxen0
+{
+	map "brightmaps/sprites/hexen/wide/faxen0.png"
+  	disablefullbright
+}
+
+brightmap sprite faxeo0
+{
+	map "brightmaps/sprites/hexen/wide/faxeo0.png"
+  	disablefullbright
+}
+
+brightmap sprite fsrdd0
+{
+	map "brightmaps/sprites/hexen/wide/fsrdd0.png"
+  	disablefullbright
+}
+
+brightmap sprite fsrde0
+{
+	map "brightmaps/sprites/hexen/wide/fsrde0.png"
+  	disablefullbright
+}
+
+brightmap sprite fsrdh0
+{
+	map "brightmaps/sprites/hexen/wide/fsrdh0.png"
+  	disablefullbright
+}
+
+brightmap sprite fsrdi0
+{
+	map "brightmaps/sprites/hexen/wide/fsrdi0.png"
+  	disablefullbright
+}
+
+brightmap sprite mlngg0
+{
+	map "brightmaps/sprites/hexen/wide/mlngg0.png"
+  	disablefullbright
+}
+
+brightmap sprite mlngh0
+{
+	map "brightmaps/sprites/hexen/wide/mlngh0.png"
+  	disablefullbright
+}
+
+brightmap sprite mlngi0
+{
+	map "brightmaps/sprites/hexen/wide/mlngi0.png"
+  	disablefullbright
+}

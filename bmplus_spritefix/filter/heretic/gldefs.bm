@@ -1,2 +1,5 @@
 // Brightmaps for Revenant100's spritefixes (don't use with vanilla sprites)
 #include brightmaps/sprites/heretic_spritefixes.bm
+
+// Brightmaps for Nash's widescreen sprites
+#include brightmaps/sprites/heretic_wide.bm

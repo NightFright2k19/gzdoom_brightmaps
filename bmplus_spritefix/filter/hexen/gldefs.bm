@@ -1,2 +1,5 @@
 // Brightmaps for sprites
 #include brightmaps/sprites/hexen.bm
+
+// Brightmaps for Nash's widescreen sprites
+#include brightmaps/sprites/hexen_wide.bm

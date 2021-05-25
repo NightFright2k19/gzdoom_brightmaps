@@ -1,0 +1,5 @@
+brightmap sprite stffh0
+{
+	map "brightmaps/sprites/heretic/wide/stffh0.png"
+  	disablefullbright
+}
