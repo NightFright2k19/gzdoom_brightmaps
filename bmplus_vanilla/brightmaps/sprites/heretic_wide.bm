@@ -1,3 +1,75 @@
+brightmap sprite crbwa0
+{
+	map "brightmaps/sprites/heretic/wide/crbwa0.png"
+  	disablefullbright
+}
+
+brightmap sprite crbwb0
+{
+	map "brightmaps/sprites/heretic/wide/crbwb0.png"
+  	disablefullbright
+}
+
+brightmap sprite crbwc0
+{
+	map "brightmaps/sprites/heretic/wide/crbwc0.png"
+  	disablefullbright
+}
+
+brightmap sprite crbwd0
+{
+	map "brightmaps/sprites/heretic/wide/crbwd0.png"
+  	disablefullbright
+}
+
+brightmap sprite crbwf0
+{
+	map "brightmaps/sprites/heretic/wide/crbwf0.png"
+  	disablefullbright
+}
+
+brightmap sprite crbwg0
+{
+	map "brightmaps/sprites/heretic/wide/crbwg0.png"
+  	disablefullbright
+}
+
+brightmap sprite crbwh0
+{
+	map "brightmaps/sprites/heretic/wide/crbwh0.png"
+  	disablefullbright
+}
+
+brightmap sprite hrodc0
+{
+	map "brightmaps/sprites/heretic/wide/hrodc0.png"
+  	disablefullbright
+}
+
+brightmap sprite hrodd0
+{
+	map "brightmaps/sprites/heretic/wide/hrodd0.png"
+  	disablefullbright
+}
+
+brightmap sprite hrode0
+{
+	map "brightmaps/sprites/heretic/wide/hrode0.png"
+  	disablefullbright
+}
+
+brightmap sprite hrodf0
+{
+	map "brightmaps/sprites/heretic/wide/hrodf0.png"
+  	disablefullbright
+}
+
+brightmap sprite phnxb0
+{
+	map "brightmaps/sprites/heretic/wide/phnxb0.png"
+  	disablefullbright
+}
+
 brightmap sprite stffh0
 {
 	map "brightmaps/sprites/heretic/wide/stffh0.png"

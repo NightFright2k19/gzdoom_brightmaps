@@ -1,9 +1,9 @@
 ==================================================================================
 Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
-Title                   : Brightmaps Collection for GZDoom v1.8
+Title                   : Brightmaps Collection for GZDoom v1.9
 Filenames               : bmplus_vanilla.pk3
-Release date            : 05/25/2021
+Release date            : ??/??/2021
 Author                  : NightFright
 
 Description             : Sprites brightmaps for Doom, Doom II, Final Doom,
@@ -61,6 +61,10 @@ Tested With             : GZDoom
 
 
 * Changelog *
+
+Version 1.9 (??? ??, 2021)
+--------------------------
+[HERETIC/HEXEN] Added support for additional widescreen weapon sprites from GZDoom v4.6.1
 
 Version 1.8 (May 25, 2021)
 --------------------------

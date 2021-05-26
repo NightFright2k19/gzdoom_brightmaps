@@ -10,6 +10,48 @@ brightmap sprite cflmf0
   	disablefullbright
 }
 
+brightmap sprite conea0
+{
+	map "brightmaps/sprites/hexen/wide/conea0.png"
+  	disablefullbright
+}
+
+brightmap sprite coneb0
+{
+	map "brightmaps/sprites/hexen/wide/coneb0.png"
+  	disablefullbright
+}
+
+brightmap sprite conec0
+{
+	map "brightmaps/sprites/hexen/wide/conec0.png"
+  	disablefullbright
+}
+
+brightmap sprite coned0
+{
+	map "brightmaps/sprites/hexen/wide/coned0.png"
+  	disablefullbright
+}
+
+brightmap sprite conee0
+{
+	map "brightmaps/sprites/hexen/wide/conee0.png"
+  	disablefullbright
+}
+
+brightmap sprite conef0
+{
+	map "brightmaps/sprites/hexen/wide/conef0.png"
+  	disablefullbright
+}
+
+brightmap sprite coneg0
+{
+	map "brightmaps/sprites/hexen/wide/coneg0.png"
+  	disablefullbright
+}
+
 brightmap sprite faxen0
 {
 	map "brightmaps/sprites/hexen/wide/faxen0.png"
