@@ -73,6 +73,8 @@ Tested With             : GZDoom
 Version 1.9 (??? ??, 2021)
 --------------------------
 [HERETIC/HEXEN] Added support for additional widescreen weapon sprites from GZDoom v4.6.1
+[HEXEN] Corrected brightmap names for Falcon Shield (AR_2), Amulet of Warding (AR_4), 
+        Icon of the Defender (DEFN), Blue Candle (BCAN)
 
 Version 1.8 (May 25, 2021)
 --------------------------

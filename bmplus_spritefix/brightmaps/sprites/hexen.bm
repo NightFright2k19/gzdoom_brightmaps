@@ -460,16 +460,16 @@ brightmap sprite aclod0
   disablefullbright
 }
 	
-brightmap sprite arm2a0
+brightmap sprite ar_2a0
 {
-	map "brightmaps/sprites/hexen/arm2a0.png"
+	map "brightmaps/sprites/hexen/ar_2a0.png"
 	iwad
   disablefullbright
 }
 
-brightmap sprite arm4a0
+brightmap sprite ar_4a0
 {
-	map "brightmaps/sprites/hexen/arm4a0.png"
+	map "brightmaps/sprites/hexen/ar_4a0.png"
 	iwad
   disablefullbright
 }
@@ -1041,30 +1041,30 @@ brightmap sprite psbgi0
   disablefullbright
 }
 
-brightmap sprite invua0
+brightmap sprite defna0
 {
-	map "brightmaps/sprites/hexen/invua0.png"
+	map "brightmaps/sprites/hexen/defna0.png"
 	iwad
   disablefullbright
 }
 
-brightmap sprite invub0
+brightmap sprite defnb0
 {
-	map "brightmaps/sprites/hexen/invub0.png"
+	map "brightmaps/sprites/hexen/defnb0.png"
 	iwad
   disablefullbright
 }
 
-brightmap sprite invuc0
+brightmap sprite defnc0
 {
-	map "brightmaps/sprites/hexen/invuc0.png"
+	map "brightmaps/sprites/hexen/defnc0.png"
 	iwad
   disablefullbright
 }
 
-brightmap sprite invud0
+brightmap sprite defnd0
 {
-	map "brightmaps/sprites/hexen/invud0.png"
+	map "brightmaps/sprites/hexen/defnd0.png"
 	iwad
   disablefullbright
 }
@@ -4891,30 +4891,30 @@ brightmap sprite brtrm0
   disablefullbright
 }
 
-brightmap sprite canda0
+brightmap sprite bcana0
 {
-	map "brightmaps/sprites/hexen/canda0.png"
+	map "brightmaps/sprites/hexen/bcana0.png"
 	iwad
   disablefullbright
 }
 
-brightmap sprite candb0
+brightmap sprite bcanb0
 {
-	map "brightmaps/sprites/hexen/candb0.png"
+	map "brightmaps/sprites/hexen/bcanb0.png"
 	iwad
   disablefullbright
 }
 
-brightmap sprite candc0
+brightmap sprite bcanc0
 {
-	map "brightmaps/sprites/hexen/candc0.png"
+	map "brightmaps/sprites/hexen/bcanc0.png"
 	iwad
   disablefullbright
 }
 
-brightmap sprite candd0
+brightmap sprite bcand0
 {
-	map "brightmaps/sprites/hexen/candd0.png"
+	map "brightmaps/sprites/hexen/bcand0.png"
 	iwad
   disablefullbright
 }
