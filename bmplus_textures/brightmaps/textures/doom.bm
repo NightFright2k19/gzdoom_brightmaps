@@ -128,8 +128,8 @@ brightmap texture sladskul { map "brightmaps/textures/doom/sladskul.png" iwad }
 brightmap texture starbr2  { map "brightmaps/textures/doom/starg2.png" iwad }
 brightmap texture starg2   { map "brightmaps/textures/doom/starg2.png" iwad }
 
-brightmap texture step4    { map "brightmaps/textures/doom/step4.png" iwad }
-brightmap texture step9    { map "brightmaps/textures/doom/step9.png" iwad }
+brightmap texture step1    { map "brightmaps/textures/doom/step1.png" iwad }
+brightmap texture step5    { map "brightmaps/textures/doom/step5.png" iwad }
 
 brightmap texture sw1blue  { map "brightmaps/textures/doom/sw1blue.png" iwad }
 brightmap texture sw1brcom { map "brightmaps/textures/doom/sw1brcom.png" iwad }
