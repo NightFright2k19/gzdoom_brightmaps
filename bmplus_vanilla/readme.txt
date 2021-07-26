@@ -3,7 +3,7 @@ Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
 Title                   : Brightmaps Collection for GZDoom v1.9
 Filenames               : bmplus_vanilla.pk3
-Release date            : ??/??/2021
+Release date            : 07/26/2021
 Author                  : NightFright
 
 Description             : Sprites brightmaps for Doom, Doom II, Final Doom,
@@ -21,9 +21,10 @@ Credits                 : Based on original graphics by
                           - TeamTNT (Final Doom)
 
                           Brightmaps provided by
-                          - Acidhoes (Hexen sprites)
-                          - DrVenom8 (Doom/Heretic sprites)
-                          - Virtue (Doom/Hexen/Strife sprites)
+                          - Acidhoes (Hexen)
+                          - DrVenom8 (Doom/Heretic)
+                          - Virtue (Doom/Hexen/Strife)
+			  - Warden (some Mancubus sprites)
 
 ==================================================================================
 * What is included *
@@ -62,8 +63,9 @@ Tested With             : GZDoom
 
 * Changelog *
 
-Version 1.9 (??? ??, 2021)
+Version 1.9 (Jul 26, 2021)
 --------------------------
+[DOOM2] Improved brightmaps for firing Mancubus (FATTH1, FATTH2H8, FATTH3H7, FATTH4H6, FATTH5) by Warden
 [HERETIC/HEXEN] Added support for additional widescreen weapon sprites from GZDoom v4.6.1
 [HEXEN] Corrected brightmap names for Falcon Shield (AR_2), Amulet of Warding (AR_4), 
         Icon of the Defender (DEFN), Blue Candle (BCAN)
