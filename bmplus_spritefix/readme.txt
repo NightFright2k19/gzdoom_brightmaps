@@ -1,9 +1,9 @@
 ==================================================================================
 Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
-Title                   : Brightmaps Collection for GZDoom v1.9
+Title                   : Brightmaps Collection for GZDoom v1.91
 Filenames               : bmplus_spritefix.pk3
-Release date            : 07/26/2021
+Release date            : 11/22/2021
 Author                  : NightFright
 
 Description             : Sprites brightmaps for Doom, Doom II, Final Doom,
@@ -69,6 +69,10 @@ Tested With             : GZDoom
 
 
 * Changelog *
+
+Version 1.91 (Nov 22, 2021)
+---------------------------
+[DOOM/DOOM2/PLUTONIA/TNT] Wadsmoosh support
 
 Version 1.9 (Jul 26, 2021)
 --------------------------

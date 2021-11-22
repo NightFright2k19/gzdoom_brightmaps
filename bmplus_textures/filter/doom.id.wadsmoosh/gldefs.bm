@@ -1,0 +1,4 @@
+#include brightmaps/textures/tnt.bm
+#include brightmaps/textures/doom.bm
+#include brightmaps/textures/doom2.bm
+#include brightmaps/textures/plutonia.bm

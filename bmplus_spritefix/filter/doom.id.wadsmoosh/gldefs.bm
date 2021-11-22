@@ -1,0 +1,3 @@
+// Brightmaps for Revenant100's spritefixes
+#include brightmaps/sprites/doom_spritefixes.bm
+#include brightmaps/sprites/doom2_spritefixes.bm

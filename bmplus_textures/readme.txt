@@ -1,9 +1,9 @@
 ==================================================================================
 Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
-Title                   : Brightmaps Collection for GZDoom v1.73
+Title                   : Brightmaps Collection for GZDoom v1.74
 Filenames               : bmplus_textures.pk3
-Release date            : 07/26/2020
+Release date            : 11/22/2021
 Author                  : NightFright
 
 Description             : Textures brightmaps for Doom, Doom II, Final Doom,
@@ -54,6 +54,10 @@ Tested With             : GZDoom
 
 
 * Changelog *
+
+Version 1.74 (Nov 22, 2021)
+---------------------------
+[DOOM/DOOM2/PLUTONIA/TNT] Wadsmoosh support
 
 Version 1.73 (Jul 26, 2021)
 ---------------------------
