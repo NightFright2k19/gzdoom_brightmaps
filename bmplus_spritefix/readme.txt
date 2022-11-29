@@ -15,7 +15,7 @@ Description             : Sprites brightmaps for Doom, Doom II, Final Doom,
                             comes with GZDoom. You don't need to load both files
                             at the same time.
                           - It is assumed you use the spritefixes for Doom and 
-                            Heretic made by Revenant100 (d1spfx19.wad, d2spfx19.wad, 
+                            Heretic made by Revenant100 (d1spfx20.wad, d2spfx20.wad, 
                             hrspfx10.wad). 
                           - Avoid loading these brightmaps with Doom/Heretic addons
                             that come with customized sprites.
@@ -43,7 +43,7 @@ Graphics                : Yes
 Dehacked/BEX Patch      : No
 Demos                   : No
 Other                   : No
-Other files required    : d1spfx19.wad, d2spfx19.wad, hrspfx10.wad (can be changed)
+Other files required    : d1spfx20.wad, d2spfx20.wad, hrspfx10.wad (can be changed)
 
 
 * Play Information *
