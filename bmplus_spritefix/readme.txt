@@ -1,9 +1,9 @@
 ==================================================================================
 Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
-Title                   : Brightmaps Collection for GZDoom v1.91
+Title                   : Brightmaps Collection for GZDoom v1.92
 Filenames               : bmplus_spritefix.pk3
-Release date            : 11/22/2021
+Release date            : 11/29/2022
 Author                  : NightFright
 
 Description             : Sprites brightmaps for Doom, Doom II, Final Doom,
@@ -69,6 +69,11 @@ Tested With             : GZDoom
 
 
 * Changelog *
+
+Version 1.92 (Nov 29, 2022)
+---------------------------
+[DOOM2] Support for Sprite Fixes v2.0 (updated: BOS2A6C4, BOS2A7C3, BOS2A8C2, BOS2B6D4,
+        BOS2B7D3, BOS2B8D2)
 
 Version 1.91 (Nov 22, 2021)
 ---------------------------
