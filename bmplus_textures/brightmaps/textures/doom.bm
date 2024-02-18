@@ -104,8 +104,8 @@ brightmap texture litemet  { map "brightmaps/textures/doom/litemet.png" iwad }
 brightmap texture litered  { map "brightmaps/textures/doom/litered.png" iwad }
 brightmap texture liteston { map "brightmaps/textures/doom/liteston.png" iwad }
 
-brightmap texture marbfac2 { map "brightmaps/textures/doom/marbfac2.png" iwad }
-brightmap texture marbface { map "brightmaps/textures/doom/marbface.png" iwad }
+// brightmap texture marbfac2 { map "brightmaps/textures/doom/marbfac2.png" iwad }
+// brightmap texture marbface { map "brightmaps/textures/doom/marbface.png" iwad }
 
 brightmap texture nuke24   { map "brightmaps/textures/doom/nuke24.png" iwad }
 brightmap texture nukedge1 { map "brightmaps/textures/doom/nukedge1.png" iwad }
