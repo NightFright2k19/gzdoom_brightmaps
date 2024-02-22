@@ -1,9 +1,9 @@
 ==================================================================================
 Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
-Title                   : Brightmaps Collection for GZDoom v1.91
+Title                   : Brightmaps Collection for GZDoom v1.92
 Filenames               : bmplus_vanilla.pk3
-Release date            : 11/22/2021
+Release date            : ??/??/????
 Author                  : NightFright
 
 Description             : Sprites brightmaps for Doom, Doom II, Final Doom,
@@ -62,6 +62,13 @@ Tested With             : GZDoom
 
 
 * Changelog *
+
+Version 1.92 (??? ??, ????)
+---------------------------
+[DOOM] Converted colored brightmaps to greyscale (CANDA, CBRAA, CEYEA-C, CHGFA, SMBTA-D,
+       SMGTA-D, SMRTA-D)
+[DOOM2] Converted colored brightmaps to greyscale (FATBA, FATBA2A8, FATBA3A7, FATBB1,
+        FATBB2B8, FATBB3B7, FATBB4B6)
 
 Version 1.91 (Nov 22, 2021)
 ---------------------------
