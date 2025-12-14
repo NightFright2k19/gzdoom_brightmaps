@@ -1,0 +1,48 @@
+brightmap flat blood1      { map "brightmaps/textures/doom/flats/blood1.png" iwad }
+brightmap flat blood2      { map "brightmaps/textures/doom/flats/blood2.png" iwad }
+brightmap flat blood3      { map "brightmaps/textures/doom/flats/blood3.png" iwad }
+
+// brightmap flat ceil1_2     { map "brightmaps/textures/doom/flats/ceil1_2.png" iwad }
+// brightmap flat ceil1_3     { map "brightmaps/textures/doom/flats/ceil1_3.png" iwad }
+// brightmap flat ceil3_4     { map "brightmaps/textures/doom/flats/ceil3_4.png" iwad }
+// brightmap flat ceil3_6     { map "brightmaps/textures/doom/flats/ceil3_6.png" iwad }
+brightmap flat ceil4_3     { map "brightmaps/textures/doom/flats/ceil4_3.png" iwad }
+
+brightmap flat cons1_1     { map "brightmaps/textures/doom/flats/cons1_1.png" iwad }
+brightmap flat cons1_5     { map "brightmaps/textures/doom/flats/cons1_5.png" iwad }
+brightmap flat cons1_7     { map "brightmaps/textures/doom/flats/cons1_7.png" iwad }
+
+brightmap flat dem1_1      { map "brightmaps/textures/doom/flats/dem1_1.png" iwad }
+brightmap flat dem1_2      { map "brightmaps/textures/doom/flats/dem1_2.png" iwad }
+brightmap flat dem1_3      { map "brightmaps/textures/doom/flats/dem1_3.png" iwad }
+brightmap flat dem1_4      { map "brightmaps/textures/doom/flats/dem1_4.png" iwad }
+
+// brightmap flat flat2       { map "brightmaps/textures/doom/flats/flat2.png" iwad }
+// brightmap flat flat17      { map "brightmaps/textures/doom/flats/flat17.png" iwad }
+brightmap flat flat22      { map "brightmaps/textures/doom/flats/flat22.png" iwad }
+
+// brightmap flat floor1_7    { map "brightmaps/textures/doom/flats/flat17.png" iwad }
+
+brightmap flat fwater1     { map "brightmaps/textures/doom/flats/fwater1.png" iwad }
+brightmap flat fwater2     { map "brightmaps/textures/doom/flats/fwater2.png" iwad }
+brightmap flat fwater3     { map "brightmaps/textures/doom/flats/fwater3.png" iwad }
+brightmap flat fwater4     { map "brightmaps/textures/doom/flats/fwater4.png" iwad }
+
+brightmap flat gate1       { map "brightmaps/textures/doom/flats/gate1.png" iwad }
+brightmap flat gate2       { map "brightmaps/textures/doom/flats/gate1.png" iwad }
+brightmap flat gate3       { map "brightmaps/textures/doom/flats/gate1.png" iwad }
+brightmap flat gate4       { map "brightmaps/textures/doom/flats/gate4.png" iwad }
+
+brightmap flat lava1       { map "brightmaps/textures/doom/flats/lava1.png" iwad }
+brightmap flat lava2       { map "brightmaps/textures/doom/flats/lava2.png" iwad }
+brightmap flat lava3       { map "brightmaps/textures/doom/flats/lava3.png" iwad }
+brightmap flat lava4       { map "brightmaps/textures/doom/flats/lava4.png" iwad }
+
+brightmap flat nukage1     { map "brightmaps/textures/doom/flats/nukage1.png" iwad }
+brightmap flat nukage2     { map "brightmaps/textures/doom/flats/nukage2.png" iwad }
+brightmap flat nukage3     { map "brightmaps/textures/doom/flats/nukage3.png" iwad }
+
+// brightmap flat tlite6_1    { map "brightmaps/textures/doom/flats/tlite6_1.png" iwad }
+brightmap flat tlite6_4    { map "brightmaps/textures/doom/flats/tlite6_1.png" iwad }
+// brightmap flat tlite6_5    { map "brightmaps/textures/doom/flats/tlite6_5.png" iwad }
+brightmap flat tlite6_6    { map "brightmaps/textures/doom/flats/tlite6_5.png" iwad }

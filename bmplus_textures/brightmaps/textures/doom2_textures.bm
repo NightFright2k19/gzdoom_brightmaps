@@ -1,31 +1,3 @@
-
-// ===================================================================================== FLATS
-
-// brightmap flat grnlite1    { map "brightmaps/textures/doom2/flats/grnlite1.png" iwad }
-
-brightmap flat rrock01     { map "brightmaps/textures/doom2/flats/rrock01.png" iwad }
-brightmap flat rrock02     { map "brightmaps/textures/doom2/flats/rrock02.png" iwad }
-brightmap flat rrock05     { map "brightmaps/textures/doom2/flats/rrock05.png" iwad }
-brightmap flat rrock06     { map "brightmaps/textures/doom2/flats/rrock06.png" iwad }
-brightmap flat rrock07     { map "brightmaps/textures/doom2/flats/rrock07.png" iwad }
-brightmap flat rrock08     { map "brightmaps/textures/doom2/flats/rrock08.png" iwad }
-
-brightmap flat slime01     { map "brightmaps/textures/doom2/flats/slime01.png" iwad }
-brightmap flat slime02     { map "brightmaps/textures/doom2/flats/slime02.png" iwad }
-brightmap flat slime03     { map "brightmaps/textures/doom2/flats/slime03.png" iwad }
-brightmap flat slime04     { map "brightmaps/textures/doom2/flats/slime04.png" iwad }
-brightmap flat slime05     { map "brightmaps/textures/doom2/flats/slime05.png" iwad }
-brightmap flat slime06     { map "brightmaps/textures/doom2/flats/slime06.png" iwad }
-brightmap flat slime07     { map "brightmaps/textures/doom2/flats/slime07.png" iwad }
-brightmap flat slime08     { map "brightmaps/textures/doom2/flats/slime08.png" iwad }
-brightmap flat slime09     { map "brightmaps/textures/doom2/flats/slime09.png" iwad }
-brightmap flat slime10     { map "brightmaps/textures/doom2/flats/slime10.png" iwad }
-brightmap flat slime11     { map "brightmaps/textures/doom2/flats/slime11.png" iwad }
-brightmap flat slime12     { map "brightmaps/textures/doom2/flats/slime12.png" iwad }
-
-
-// ===================================================================================== TEXTURES
-
 brightmap texture bfall1   { map "brightmaps/textures/doom2/bfall1.png" iwad }
 brightmap texture bfall2   { map "brightmaps/textures/doom2/bfall2.png" iwad }
 brightmap texture bfall3   { map "brightmaps/textures/doom2/bfall3.png" iwad }

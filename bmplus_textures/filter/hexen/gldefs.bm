@@ -1,2 +1,5 @@
 // Brightmaps for textures
-#include brightmaps/textures/hexen.bm
+#include brightmaps/textures/hexen_textures.bm
+
+// Brightmaps for textures
+#include brightmaps/textures/hexen_flats.bm

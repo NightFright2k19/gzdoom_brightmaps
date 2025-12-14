@@ -1,2 +1,5 @@
 // Brightmaps for textures
-#include brightmaps/textures/heretic.bm
+#include brightmaps/textures/heretic_textures.bm
+
+// Brightmaps for flats
+#include brightmaps/textures/heretic_flats.bm

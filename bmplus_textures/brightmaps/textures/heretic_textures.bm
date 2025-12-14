@@ -1,0 +1,14 @@
+brightmap texture doorexit { map "brightmaps/textures/heretic/doorexit.png" iwad }
+
+brightmap texture lavafl1  { map "brightmaps/textures/heretic/lavafl1.png" iwad }
+brightmap texture lavafl2  { map "brightmaps/textures/heretic/lavafl2.png" iwad }
+brightmap texture lavafl3  { map "brightmaps/textures/heretic/lavafl3.png" iwad }
+
+brightmap texture stngls1  { map "brightmaps/textures/heretic/stngls1.png" iwad }
+brightmap texture stngls2  { map "brightmaps/textures/heretic/stngls2.png" iwad }
+brightmap texture stngls3  { map "brightmaps/textures/heretic/stngls3.png" iwad }
+
+brightmap texture sw1on    { map "brightmaps/textures/heretic/sw1on.png" iwad }
+
+brightmap texture sw2off   { map "brightmaps/textures/heretic/sw2off.png" iwad }
+brightmap texture sw2on    { map "brightmaps/textures/heretic/sw2on.png" iwad }

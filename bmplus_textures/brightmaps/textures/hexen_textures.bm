@@ -1,13 +1,3 @@
-
-// ===================================================================================== FLATS
-
-brightmap flat x_001      { map "brightmaps/textures/hexen/flats/x_001.png" iwad }
-brightmap flat x_002      { map "brightmaps/textures/hexen/flats/x_002.png" iwad }
-brightmap flat x_003      { map "brightmaps/textures/hexen/flats/x_003.png" iwad }
-brightmap flat x_004      { map "brightmaps/textures/hexen/flats/x_004.png" iwad }
-
-// ===================================================================================== TEXTURES
-
 brightmap texture monk18  { map "brightmaps/textures/hexen/monk18.png" iwad }
 brightmap texture monk22  { map "brightmaps/textures/hexen/monk22.png" iwad }
 

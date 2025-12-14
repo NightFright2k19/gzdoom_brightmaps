@@ -1,4 +1,9 @@
-#include brightmaps/textures/tnt.bm
-#include brightmaps/textures/doom.bm
-#include brightmaps/textures/doom2.bm
-#include brightmaps/textures/plutonia.bm
+// Brightmaps for textures
+#include brightmaps/textures/doom_textures.bm
+#include brightmaps/textures/doom2_textures.bm
+#include brightmaps/textures/plutonia_textures.bm
+#include brightmaps/textures/tnt_textures.bm
+
+// Brightmaps for flats
+#include brightmaps/textures/doom_flats.bm
+#include brightmaps/textures/doom2_flats.bm

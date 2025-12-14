@@ -1,9 +1,9 @@
 ==================================================================================
 Advanced engine needed  : Limit-removing (GZDoom)
 ==================================================================================
-Title                   : Brightmaps Collection for GZDoom v1.74
+Title                   : Brightmaps Collection for GZDoom v1.75
 Filenames               : bmplus_textures.pk3
-Release date            : 11/22/2021
+Release date            : 12/14/2025
 Author                  : NightFright
 
 Description             : Textures brightmaps for Doom, Doom II, Final Doom,
@@ -54,6 +54,11 @@ Tested With             : GZDoom
 
 
 * Changelog *
+
+Version 1.75 (Dec 14, 2025)
+---------------------------
+[GENERAL] Separated definitions for textures and flats
+[DOOM] Deactivated brightmaps for MARBFACE + MARBFAC2
 
 Version 1.74 (Nov 22, 2021)
 ---------------------------

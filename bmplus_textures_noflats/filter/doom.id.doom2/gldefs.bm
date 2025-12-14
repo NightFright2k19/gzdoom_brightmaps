@@ -1,5 +1,3 @@
 // Brightmaps for textures
 #include brightmaps/textures/doom_textures.bm
-
-// Brightmaps for flats
-#include brightmaps/textures/doom_flats.bm
+#include brightmaps/textures/doom2_textures.bm
