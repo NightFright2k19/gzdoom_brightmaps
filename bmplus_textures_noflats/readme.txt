@@ -7,7 +7,7 @@ Release date            : 12/14/2025
 Author                  : NightFright
 
 Description             : Deactivates brightmaps for flats only. 
-                          Must be loaded *AFTER* bmplus_textures.pk3.
+                          Load it instead of bmplus_textures.pk3.
 
 ==================================================================================
 * What is included *
